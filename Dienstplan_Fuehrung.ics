@@ -2,117 +2,116 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ChatGPT//Dienstplan//DE
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 BEGIN:VEVENT
 UID:Fuhrung-0-1768075200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260110T200000
 DTEND:20260110T220000
-SUMMARY:Führung
-DESCRIPTION:JHV Lg Wietersheim\\nPersonen: Lg-Führung
+SUMMARY:JHV Lg Wietersheim | Lg-Führung
+DESCRIPTION:Beschreibung: JHV Lg Wietersheim\nPersonen: Lg-Führung
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-1-1772134200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260226T193000
 DTEND:20260226T213000
-SUMMARY:Führung
-DESCRIPTION:Zug 3 Führungskräftebesprechung\\nPersonen: T. Rousselle
+SUMMARY:Zug 3 Führungskräftebesprechung | T. Rousselle
+DESCRIPTION:Beschreibung: Zug 3 Führungskräftebesprechung\nPersonen: T. Rousselle
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-2-1773342000@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260312T190000
 DTEND:20260312T210000
-SUMMARY:Führung
-DESCRIPTION:Vorstandssitzung Gerätehaus\\nPersonen: L. Kölling
+SUMMARY:Vorstandssitzung Gerätehaus | L. Kölling
+DESCRIPTION:Beschreibung: Vorstandssitzung Gerätehaus\nPersonen: L. Kölling  
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-3-1773360000@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260313T000000
 DTEND:20260313T230000
-SUMMARY:Führung
-DESCRIPTION:Kreisverbandstag\\nPersonen: KBM
+SUMMARY:Kreisverbandstag | KBM
+DESCRIPTION:Beschreibung: Kreisverbandstag\nPersonen: KBM
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-4-1774467000@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260325T193000
 DTEND:20260325T213000
-SUMMARY:Führung
-DESCRIPTION:Dienstbesprechung Stadt\\nPersonen: LdF
+SUMMARY:Dienstbesprechung Stadt | LdF
+DESCRIPTION:Beschreibung: Dienstbesprechung Stadt\nPersonen: LdF
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-5-1774688400@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260328T090000
 DTEND:20260328T110000
-SUMMARY:Führung
-DESCRIPTION:Fortbildung Führungskräfte\\nPersonen: LdF
+SUMMARY:Fortbildung Führungskräfte | LdF
+DESCRIPTION:Beschreibung: Fortbildung Führungskräfte\nPersonen: LdF
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-6-1776970800@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260423T190000
 DTEND:20260423T210000
-SUMMARY:Führung
-DESCRIPTION:Zugbesprechung Führungskräfte\\nPersonen: T. Rousselle
+SUMMARY:Zugbesprechung Führungskräfte | T. Rousselle
+DESCRIPTION:Beschreibung: Zugbesprechung Führungskräfte\nPersonen: T. Rousselle
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-7-1790276400@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260924T190000
 DTEND:20260924T210000
-SUMMARY:Führung
-DESCRIPTION:Dienstbesprechung Stadt\\nPersonen: LdF
+SUMMARY:Dienstbesprechung Stadt | LdF
+DESCRIPTION:Beschreibung: Dienstbesprechung Stadt\nPersonen: LdF
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-8-1790294400@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260925T000000
 DTEND:20260925T230000
-SUMMARY:Führung
-DESCRIPTION:Ehemalige FK Alte Brandmeister\\nPersonen: LdF
+SUMMARY:Ehemalige FK Alte Brandmeister | LdF
+DESCRIPTION:Beschreibung: Ehemalige FK Alte Brandmeister\nPersonen: LdF
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-9-1795219200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261121T000000
 DTEND:20261121T230000
-SUMMARY:Führung
-DESCRIPTION:Treffen Ehrenabteilung in Levern\\nPersonen: KBM
+SUMMARY:Treffen Ehrenabteilung in Levern | KBM
+DESCRIPTION:Beschreibung: Treffen Ehrenabteilung in Levern\nPersonen: KBM
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-10-1795546800@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261124T190000
 DTEND:20261124T210000
-SUMMARY:Führung
-DESCRIPTION:Zug 3: Jahresabschlussbesprechung Führungskräfte\\nPersonen: T. Rousselle
+SUMMARY:Zug 3: Jahresabschlussbesprechung Führungskräfte | T. Rousselle
+DESCRIPTION:Beschreibung: Zug 3: Jahresabschlussbesprechung Führungskräfte\nPersonen: T. Rousselle
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-11-1795719600@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261126T190000
 DTEND:20261126T210000
-SUMMARY:Führung
-DESCRIPTION:Fortbildung Führungskräfte\\nPersonen: LdF
+SUMMARY:Fortbildung Führungskräfte | LdF
+DESCRIPTION:Beschreibung: Fortbildung Führungskräfte\nPersonen: LdF
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-12-1796326200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261203T193000
 DTEND:20261203T213000
-SUMMARY:Führung
-DESCRIPTION:AK 2: Führungskräfte Abschlussbesprechung in Lahde\\nPersonen: P. Wichmann
+SUMMARY:AK 2: Führungskräfte Abschlussbesprechung in Lahde | P. Wichmann
+DESCRIPTION:Beschreibung: AK 2: Führungskräfte Abschlussbesprechung in Lahde\nPersonen: P. Wichmann
 END:VEVENT
 BEGIN:VEVENT
 UID:Fuhrung-13-1796410800@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261204T190000
 DTEND:20261204T210000
-SUMMARY:Führung
-DESCRIPTION:Jahresabschlussbesprechung Sekundarschule Lahde\\nPersonen: LdF
+SUMMARY:Jahresabschlussbesprechung Sekundarschule Lahde | LdF
+DESCRIPTION:Beschreibung: Jahresabschlussbesprechung Sekundarschule Lahde\nPersonen: LdF
 END:VEVENT
 END:VCALENDAR

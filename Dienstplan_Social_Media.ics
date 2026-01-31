@@ -2,109 +2,108 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ChatGPT//Dienstplan//DE
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 BEGIN:VEVENT
 UID:Social_Media-0-1769626800@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260128T190000
-DTEND:20260128T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260128T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-1-1771441200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260218T190000
-DTEND:20260218T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260218T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-2-1772046000@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260225T190000
-DTEND:20260225T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260225T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-3-1774465200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260325T190000
-DTEND:20260325T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260325T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-4-1777489200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260429T190000
-DTEND:20260429T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260429T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-5-1779908400@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260527T190000
-DTEND:20260527T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260527T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-6-1782327600@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260624T190000
-DTEND:20260624T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260624T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-7-1785351600@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260729T190000
-DTEND:20260729T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260729T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-8-1787770800@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260826T190000
-DTEND:20260826T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260826T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-9-1790794800@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20260930T190000
-DTEND:20260930T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20260930T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-10-1793214000@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261028T190000
-DTEND:20261028T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20261028T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-11-1795633200@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261125T190000
-DTEND:20261125T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20261125T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 BEGIN:VEVENT
 UID:Social_Media-12-1797447600@chatgpt
-DTSTAMP:20260131T113213Z
+DTSTAMP:20260131T113759Z
 DTSTART:20261216T190000
-DTEND:20261216T210000
-SUMMARY:Social Media
-DESCRIPTION:Monthly Sync Social Media\\nPersonen: M. Schneidewind
+DTEND:20261216T193000
+SUMMARY:Monthly Sync Social Media | M. Schneidewind
+DESCRIPTION:Beschreibung: Monthly Sync Social Media\nPersonen: M. Schneidewind
 END:VEVENT
 END:VCALENDAR
