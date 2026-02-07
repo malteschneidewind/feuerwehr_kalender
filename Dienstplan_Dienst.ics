@@ -2,428 +2,429 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ChatGPT//Dienstplan//DE
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
 UID:Dienst-0-1768419000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260114T193000
 DTEND:20260114T213000
 SUMMARY:Bewegungsfahrt + technische Überprüfung Fahrzeuge | M. Klenke/P. Wendland
-DESCRIPTION:Beschreibung: Bewegungsfahrt + technische Überprüfung Fahrzeuge\nPersonen: M. Klenke/P. Wendland
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Bewegungsfahrt + technische Überprüfung Fahrzeuge\\nPersonen: M. Klenke/P. Wendland
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-1-1769023800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260121T193000
 DTEND:20260121T213000
 SUMMARY:Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge | F. Wormstedt/J. Menge
-DESCRIPTION:Beschreibung: Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge\nPersonen: F. Wormstedt/J. Menge
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge\\nPersonen: F. Wormstedt/J. Menge
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-2-1769628600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260128T193000
 DTEND:20260128T213000
 SUMMARY:Erste Hilfe und Reanimation praktisch | D. Thielking/P. Kipper
-DESCRIPTION:Beschreibung: Erste Hilfe und Reanimation praktisch\nPersonen: D. Thielking/P. Kipper
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Erste Hilfe und Reanimation praktisch\\nPersonen: D. Thielking/P. Kipper
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-3-1770232500@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260204T191500
 DTEND:20260204T211500
 SUMMARY:Vorstellung PSU\; Wietersheim\, Vorbereitung WW | Lg Wietersheim/A. Windheim
-DESCRIPTION:Beschreibung: Vorstellung PSU\; Wietersheim\, Vorbereitung WW\nPersonen: Lg Wietersheim/A. Windheim
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Vorstellung PSU\; Wietersheim\, Vorbereitung WW\\nPersonen: Lg Wietersheim/A. Windheim
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-4-1770834600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260211T183000
 DTEND:20260211T203000
 SUMMARY:CSA-Trageübung und Einweisung | St. Hansch
-DESCRIPTION:Beschreibung: CSA-Trageübung und Einweisung\nPersonen: St. Hansch
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung\\nPersonen: St. Hansch
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-5-1770924600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260212T193000
 DTEND:20260212T213000
 SUMMARY:UVV und Fahrerbelehrung in Lahde | T. Rousselle
-DESCRIPTION:Beschreibung: UVV und Fahrerbelehrung in Lahde\nPersonen: T. Rousselle
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: UVV und Fahrerbelehrung in Lahde\\nPersonen: T. Rousselle
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-6-1771443000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260218T193000
 DTEND:20260218T213000
 SUMMARY:Termin Besichtigung Berenzen mit Wietersheim | T. Apel
-DESCRIPTION:Beschreibung: Termin Besichtigung Berenzen mit Wietersheim\nPersonen: T. Apel
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Termin Besichtigung Berenzen mit Wietersheim\\nPersonen: T. Apel
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-7-1772042400@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260225T180000
 DTEND:20260225T200000
 SUMMARY:Einweisung Sonargerät T/P | N. Heidkamp
-DESCRIPTION:Beschreibung: Einweisung Sonargerät T/P\nPersonen: N. Heidkamp
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einweisung Sonargerät T/P\\nPersonen: N. Heidkamp
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-8-1772652600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260304T193000
 DTEND:20260304T213000
 SUMMARY:Druckberechnung Schläuche und Schaum | M. Hartmann/L. Wittkamp
-DESCRIPTION:Beschreibung: Druckberechnung Schläuche und Schaum \nPersonen: M. Hartmann/L. Wittkamp
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Druckberechnung Schläuche und Schaum\\nPersonen: M. Hartmann/L. Wittkamp
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-9-1773257400@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260311T193000
 DTEND:20260311T213000
 SUMMARY:Atemschutzkonzept Stadt Petershagen | S. Wichmann
-DESCRIPTION:Beschreibung: Atemschutzkonzept Stadt Petershagen\nPersonen: S. Wichmann
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Atemschutzkonzept Stadt Petershagen\\nPersonen: S. Wichmann
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-10-1773862200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260318T193000
 DTEND:20260318T213000
 SUMMARY:Anhörung Aktive wegen stellv. Löschgruppenführer | LdF
-DESCRIPTION:Beschreibung: Anhörung Aktive wegen stellv. Löschgruppenführer\nPersonen: LdF
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Anhörung Aktive wegen stellv. Löschgruppenführer\\nPersonen: LdF
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-11-1774981800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260331T183000
 DTEND:20260331T203000
 SUMMARY:CSA-Trageübung und Einweisung | St. Hansch
-DESCRIPTION:Beschreibung: CSA-Trageübung und Einweisung\nPersonen: St. Hansch
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung\\nPersonen: St. Hansch
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-12-1775071800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260401T193000
 DTEND:20260401T213000
 SUMMARY:FwDV 3: Aufgaben der Trupps bei der Brandbekämpfung | H. Neubert
-DESCRIPTION:Beschreibung: FwDV 3: Aufgaben der Trupps bei der Brandbekämpfung\nPersonen: H. Neubert
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: FwDV 3: Aufgaben der Trupps bei der Brandbekämpfung\\nPersonen: H. Neubert
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-13-1775676600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260408T193000
 DTEND:20260408T213000
 SUMMARY:FwDV 3: Aufgaben der Trupps bei der technischen Hilfeleistung | P. Wichmann
-DESCRIPTION:Beschreibung: FwDV 3: Aufgaben der Trupps bei der technischen Hilfeleistung\nPersonen: P. Wichmann
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: FwDV 3: Aufgaben der Trupps bei der technischen Hilfeleistung\\nPersonen: P. Wichmann
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-14-1775842200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260410T173000
 DTEND:20260410T193000
 SUMMARY:Atemschutzübungsstrecke FTZ Hille + Grillen im Anschluss | L. Kölling
-DESCRIPTION:Beschreibung: Atemschutzübungsstrecke FTZ Hille + Grillen im Anschluss\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Atemschutzübungsstrecke FTZ Hille + Grillen im Anschluss\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-15-1776194100@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260414T191500
 DTEND:20260414T211500
 SUMMARY:Zugdienst mit DRK | T. Rousselle
-DESCRIPTION:Beschreibung: Zugdienst mit DRK\nPersonen: T. Rousselle
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Zugdienst mit DRK\\nPersonen: T. Rousselle
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-16-1776281400@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260415T193000
 DTEND:20260415T213000
 SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Beschreibung: Allgemeiner Dienst\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-17-1776886200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260422T193000
 DTEND:20260422T213000
 SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Beschreibung: Üben für Leistungsnachweis Hille\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-18-1777491000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260429T193000
 DTEND:20260429T213000
 SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Beschreibung: Üben für Leistungsnachweis Hille\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-19-1778095800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260506T193000
 DTEND:20260506T213000
 SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Beschreibung: Üben für Leistungsnachweis Hille\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-20-1778268600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260508T193000
 DTEND:20260508T213000
 SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Beschreibung: Üben für Leistungsnachweis Hille\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-21-1746790200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20250509T113000
 DTEND:20250509T133000
 SUMMARY:Leistungsnachweis in Hille | L. Kölling
-DESCRIPTION:Beschreibung: Leistungsnachweis in Hille\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Leistungsnachweis in Hille\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-22-1779305400@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260520T193000
 DTEND:20260520T213000
 SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Beschreibung: Allgemeiner Dienst\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-23-1779910200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260527T193000
 DTEND:20260527T213000
 SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Beschreibung: Allgemeiner Dienst\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-24-1781119800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260610T193000
 DTEND:20260610T213000
 SUMMARY:Fahrzeugreinigung wegen Stadtfeuerwehrtreffen | O. Harmening
-DESCRIPTION:Beschreibung: Fahrzeugreinigung wegen Stadtfeuerwehrtreffen\nPersonen: O. Harmening
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Fahrzeugreinigung wegen Stadtfeuerwehrtreffen\\nPersonen: O. Harmening
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-25-1781724600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260617T193000
 DTEND:20260617T213000
 SUMMARY:Flächenbrandbekämpfung | S. Wichmann/T. Volkening
-DESCRIPTION:Beschreibung: Flächenbrandbekämpfung\nPersonen: S. Wichmann/T. Volkening
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Flächenbrandbekämpfung\\nPersonen: S. Wichmann/T. Volkening
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-26-1782324000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260624T180000
 DTEND:20260624T200000
 SUMMARY:Sonar Boot Praxis | N. Heidkamp
-DESCRIPTION:Beschreibung: Sonar Boot Praxis\nPersonen: N. Heidkamp
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Sonar Boot Praxis\\nPersonen: N. Heidkamp
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-27-1782930600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260701T183000
 DTEND:20260701T203000
 SUMMARY:Fahrübung im Gelände | L. Kölling/H. Neubert/T. Böke
-DESCRIPTION:Beschreibung: Fahrübung im Gelände\nPersonen: L. Kölling/H. Neubert/T. Böke
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Fahrübung im Gelände\\nPersonen: L. Kölling/H. Neubert/T. Böke
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-28-1783539000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260708T193000
 DTEND:20260708T213000
 SUMMARY:Einsatzübung nach FwDV 3 | D. Thielking/A. Volkening
-DESCRIPTION:Beschreibung: Einsatzübung nach FwDV 3\nPersonen: D. Thielking/A. Volkening
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einsatzübung nach FwDV 3\\nPersonen: D. Thielking/A. Volkening
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-29-1784143800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260715T193000
 DTEND:20260715T213000
 SUMMARY:Pumpenbetrieb TLF 3000 + TS 2/5 | Lo. Kölling/F. Kölling
-DESCRIPTION:Beschreibung: Pumpenbetrieb TLF 3000 + TS 2/5\nPersonen: Lo. Kölling/F. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Pumpenbetrieb TLF 3000 + TS 2/5\\nPersonen: Lo. Kölling/F. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-30-1784748600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260722T193000
 DTEND:20260722T213000
 SUMMARY:Steckleiter (Vornahme an Gebäuden\, Leiterhebel) | K. Belte/J. Rost
-DESCRIPTION:Beschreibung: Steckleiter (Vornahme an Gebäuden\, Leiterhebel)\nPersonen: K. Belte/J. Rost
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Steckleiter (Vornahme an Gebäuden\, Leiterhebel)\\nPersonen: K. Belte/J. Rost
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-31-1785353400@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260729T193000
 DTEND:20260729T213000
 SUMMARY:Einsatzübung nach FwDV 3 | C. Petzold/H.-J. Haase
-DESCRIPTION:Beschreibung: Einsatzübung nach FwDV 3\nPersonen: C. Petzold/H.-J. Haase
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einsatzübung nach FwDV 3\\nPersonen: C. Petzold/H.-J. Haase
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-32-1785958200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260805T193000
 DTEND:20260805T213000
 SUMMARY:Pumpenbetrieb LF 20 KatS | F. Hümmer/H. Volkening
-DESCRIPTION:Beschreibung: Pumpenbetrieb LF 20 KatS\nPersonen: F. Hümmer/H. Volkening
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Pumpenbetrieb LF 20 KatS\\nPersonen: F. Hümmer/H. Volkening
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-33-1787167800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260819T193000
 DTEND:20260819T213000
 SUMMARY:Einsatzschulung/-übung nach FwDV 500 | Lg-Führung
-DESCRIPTION:Beschreibung: Einsatzschulung/-übung nach FwDV 500\nPersonen: Lg-Führung
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einsatzschulung/-übung nach FwDV 500\\nPersonen: Lg-Führung
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-34-1850931000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20280826T193000
 DTEND:20280826T213000
 SUMMARY:Reserveradwechsel LF 20 KatS | T. Volkening/M. Klenke
-DESCRIPTION:Beschreibung: Reserveradwechsel LF 20 KatS\nPersonen: T. Volkening/M. Klenke
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Reserveradwechsel LF 20 KatS\\nPersonen: T. Volkening/M. Klenke
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-35-1788375600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260902T190000
 DTEND:20260902T210000
 SUMMARY:Grünholen Dorfgemeinschaftsfest | T. Böke
-DESCRIPTION:Beschreibung: Grünholen Dorfgemeinschaftsfest\nPersonen: T. Böke 
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Grünholen Dorfgemeinschaftsfest\\nPersonen: T. Böke
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-36-1788982200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260909T193000
 DTEND:20260909T213000
 SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Beschreibung: Allgemeiner Dienst\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-37-1789148700@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260911T174500
 DTEND:20260911T194500
 SUMMARY:Zug 3 Einsatzübung | T. Rousselle
-DESCRIPTION:Beschreibung: Zug 3 Einsatzübung\nPersonen: T. Rousselle
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Zug 3 Einsatzübung\\nPersonen: T. Rousselle
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-38-1758137400@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20250917T193000
 DTEND:20250917T213000
 SUMMARY:Ausleuchten von Einsatzstellen | J. Rost\, M. Heidplacke
-DESCRIPTION:Beschreibung: Ausleuchten von Einsatzstellen\nPersonen: J. Rost\, M. Heidplacke
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Ausleuchten von Einsatzstellen\\nPersonen: J. Rost\, M. Heidplacke
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-39-1790188200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260923T183000
 DTEND:20260923T203000
 SUMMARY:CSA-Trageübung und Einweisung | St. Hansch
-DESCRIPTION:Beschreibung: CSA-Trageübung und Einweisung\nPersonen: St. Hansch
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung\\nPersonen: St. Hansch
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-40-1790796600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20260930T193000
 DTEND:20260930T213000
 SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Beschreibung: Allgemeiner Dienst\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-41-1791401400@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261007T193000
 DTEND:20261007T213000
 SUMMARY:Kurzunterricht Stromerzeuger | C. Petzold/J. Rost
-DESCRIPTION:Beschreibung: Kurzunterricht Stromerzeuger\nPersonen: C. Petzold/J. Rost
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht Stromerzeuger\\nPersonen: C. Petzold/J. Rost
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-42-1792006200@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261014T193000
 DTEND:20261014T213000
 SUMMARY:Schlauchverlegung mit dem LF 20 KatS | O. Harmening
-DESCRIPTION:Beschreibung: Schlauchverlegung mit dem LF 20 KatS\nPersonen: O. Harmening
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Schlauchverlegung mit dem LF 20 KatS\\nPersonen: O. Harmening
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-43-1792611000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261021T193000
 DTEND:20261021T213000
 SUMMARY:Kurzunterricht : Auffangbehälter LF 20 KatS | C. Möller/H.-J. Haase
-DESCRIPTION:Beschreibung: Kurzunterricht : Auffangbehälter LF 20 KatS\nPersonen: C. Möller/H.-J. Haase
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht : Auffangbehälter LF 20 KatS\\nPersonen: C. Möller/H.-J. Haase
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-44-1793215800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261028T193000
 DTEND:20261028T213000
 SUMMARY:Kurzunterricht: Verkehrsunfallkasten LF 20 KatS | L. Wittkamp/M. Hartmann
-DESCRIPTION:Beschreibung: Kurzunterricht: Verkehrsunfallkasten LF 20 KatS\nPersonen: L. Wittkamp/M. Hartmann
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht: Verkehrsunfallkasten LF 20 KatS\\nPersonen: L. Wittkamp/M. Hartmann
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-45-1793820600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261104T193000
 DTEND:20261104T213000
 SUMMARY:Vornahme und Einsatztaktik Drucklüfter | M. Schneidewind/M. Heidplacke
-DESCRIPTION:Beschreibung: Vornahme und Einsatztaktik Drucklüfter\nPersonen: M. Schneidewind/M. Heidplacke
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Vornahme und Einsatztaktik Drucklüfter\\nPersonen: M. Schneidewind/M. Heidplacke
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-46-1794390300@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261111T094500
 DTEND:20261111T114500
 SUMMARY:Gefahren bei Einsätzen auf DB-Gelände | F. Belte/K. Belte
-DESCRIPTION:Beschreibung: Gefahren bei Einsätzen auf DB-Gelände\nPersonen: F. Belte/K. Belte
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Gefahren bei Einsätzen auf DB-Gelände\\nPersonen: F. Belte/K. Belte
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-47-1795026600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261118T183000
 DTEND:20261118T203000
 SUMMARY:CSA-Trageübung und Einweisung
-DESCRIPTION:Beschreibung: CSA-Trageübung und Einweisung
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-48-1795635000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261125T193000
 DTEND:20261125T213000
 SUMMARY:Allgemeiner Dienst | Kölling
-DESCRIPTION:Beschreibung: Allgemeiner Dienst\nPersonen: Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-49-1796239800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261202T193000
 DTEND:20261202T213000
 SUMMARY:Trockensaugproben mit den Pumpen der Fahrzeuge | O. Harmening/T. Volkening
-DESCRIPTION:Beschreibung: Trockensaugproben mit den Pumpen der Fahrzeuge\nPersonen: O. Harmening/T. Volkening
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Trockensaugproben mit den Pumpen der Fahrzeuge\\nPersonen: O. Harmening/T. Volkening
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-50-1796499000@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261205T193000
 DTEND:20261205T213000
 SUMMARY:JHV 2026 | L. Kölling
-DESCRIPTION:Beschreibung: JHV 2026\nPersonen: L. Kölling
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: JHV 2026\\nPersonen: L. Kölling
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-51-1796844600@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261209T193000
 DTEND:20261209T213000
 SUMMARY:Kurzunterricht: Hygiene im Einsatzdienst | H.-J. Haase
-DESCRIPTION:Beschreibung: Kurzunterricht: Hygiene im Einsatzdienst\nPersonen: H.-J. Haase
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht: Hygiene im Einsatzdienst\\nPersonen: H.-J. Haase
 END:VEVENT
 BEGIN:VEVENT
 UID:Dienst-52-1797445800@chatgpt
-DTSTAMP:20260131T113759Z
+DTSTAMP:20260207T092710Z
 DTSTART:20261216T183000
 DTEND:20261216T203000
 SUMMARY:Letzter Dienst vor Weihnachten | L. Kölling/A. Windheim
-DESCRIPTION:Beschreibung: Letzter Dienst vor Weihnachten\nPersonen: L. Kölling/A. Windheim
+DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Letzter Dienst vor Weihnachten\\nPersonen: L. Kölling/A. Windheim
 END:VEVENT
 END:VCALENDAR
