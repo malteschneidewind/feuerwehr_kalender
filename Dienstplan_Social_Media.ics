@@ -1,110 +1,116 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ChatGPT//Dienstplan//DE
+PRODID:-//LG Frille//Dienstplan 2026//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:Dienstplan Social Media 2026
+X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:Social_Media-0-1769626800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260128T190000
-DTEND:20260128T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:453ec50b-8953-4a35-940d-e3b9cfa0fb08@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260128T190000
+DTEND;TZID=Europe/Berlin:20260128T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-1-1771441200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260218T190000
-DTEND:20260218T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:43b1faff-c807-470e-8c83-df33b8d084cb@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260225T190000
+DTEND;TZID=Europe/Berlin:20260225T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-2-1772046000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260225T190000
-DTEND:20260225T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:20b65ad2-6d05-4b03-865d-c585583238d2@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260325T190000
+DTEND;TZID=Europe/Berlin:20260325T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-3-1774465200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260325T190000
-DTEND:20260325T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:ad66a93c-a6a8-49b2-93ac-c4c3763d24b7@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260429T190000
+DTEND;TZID=Europe/Berlin:20260429T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-4-1777489200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260429T190000
-DTEND:20260429T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:30d5e78b-536e-4d31-bb2e-19d5b52cfec4@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260527T190000
+DTEND;TZID=Europe/Berlin:20260527T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-5-1779908400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260527T190000
-DTEND:20260527T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:80e90081-128e-4adb-a029-73bfcb4d0aef@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260624T190000
+DTEND;TZID=Europe/Berlin:20260624T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-6-1782327600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260624T190000
-DTEND:20260624T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:2890ddf4-73b8-4007-bbe1-a72243dcf4a7@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260729T190000
+DTEND;TZID=Europe/Berlin:20260729T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-7-1785351600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260729T190000
-DTEND:20260729T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:00fb15d5-e805-4dd5-817f-18173c45fe42@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260826T190000
+DTEND;TZID=Europe/Berlin:20260826T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-8-1787770800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260826T190000
-DTEND:20260826T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:b2dbc90f-9494-4e4a-9bc1-5ae176f3ada3@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260930T190000
+DTEND;TZID=Europe/Berlin:20260930T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-9-1790794800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260930T190000
-DTEND:20260930T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:83d9d9d2-91cb-4193-a972-929861945d06@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261028T190000
+DTEND;TZID=Europe/Berlin:20261028T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-10-1793214000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261028T190000
-DTEND:20261028T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:04e3ab28-d0ac-4108-9944-0bad72e3f188@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261125T190000
+DTEND;TZID=Europe/Berlin:20261125T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 BEGIN:VEVENT
-UID:Social_Media-11-1795633200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261125T190000
-DTEND:20261125T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
-END:VEVENT
-BEGIN:VEVENT
-UID:Social_Media-12-1797447600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261216T190000
-DTEND:20261216T193000
-SUMMARY:Monthly Sync Social Media | M. Schneidewind
-DESCRIPTION:Kategorie: Social Media\\nBeschreibung: Monthly Sync Social Media\\nPersonen: M. Schneidewind
+UID:aedcc97d-f276-425c-a6a5-ef75922dab17@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261216T190000
+DTEND;TZID=Europe/Berlin:20261216T193000
+SUMMARY:Monthly Sync Social Media
+DESCRIPTION:Kategorie: Social Media\nVerantwortlich: M. Schneidewind\nDetai
+ ls: Monthly Sync Social Media
 END:VEVENT
 END:VCALENDAR

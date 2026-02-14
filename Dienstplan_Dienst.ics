@@ -1,430 +1,484 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ChatGPT//Dienstplan//DE
+PRODID:-//LG Frille//Dienstplan 2026//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:Dienstplan Dienst 2026
+X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:Dienst-0-1768419000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260114T193000
-DTEND:20260114T213000
-SUMMARY:Bewegungsfahrt + technische Überprüfung Fahrzeuge | M. Klenke/P. Wendland
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Bewegungsfahrt + technische Überprüfung Fahrzeuge\\nPersonen: M. Klenke/P. Wendland
+UID:6d49b58b-ed5a-4fd6-9468-d694de18657d@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260114T193000
+DTEND;TZID=Europe/Berlin:20260114T213000
+SUMMARY:Bewegungsfahrt + technische Überprüfung Fahrzeuge
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: M. Klenke/P. Wendland\nDetai
+ ls: Bewegungsfahrt + technische Überprüfung Fahrzeuge
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-1-1769023800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260121T193000
-DTEND:20260121T213000
-SUMMARY:Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge | F. Wormstedt/J. Menge
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge\\nPersonen: F. Wormstedt/J. Menge
+UID:3a4b0ab4-b597-43c6-9c4e-4a5fab311055@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260121T193000
+DTEND;TZID=Europe/Berlin:20260121T213000
+SUMMARY:Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: F. Wormstedt/J. Menge\nDetai
+ ls: Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-2-1769628600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260128T193000
-DTEND:20260128T213000
-SUMMARY:Erste Hilfe und Reanimation praktisch | D. Thielking/P. Kipper
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Erste Hilfe und Reanimation praktisch\\nPersonen: D. Thielking/P. Kipper
+UID:17dcff2f-4f26-4a4f-a777-6a71e5577136@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260128T193000
+DTEND;TZID=Europe/Berlin:20260128T213000
+SUMMARY:Erste Hilfe und Reanimation praktisch
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: D. Thielking/P. Kipper\nDeta
+ ils: Erste Hilfe und Reanimation praktisch
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-3-1770232500@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260204T191500
-DTEND:20260204T211500
-SUMMARY:Vorstellung PSU\; Wietersheim\, Vorbereitung WW | Lg Wietersheim/A. Windheim
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Vorstellung PSU\; Wietersheim\, Vorbereitung WW\\nPersonen: Lg Wietersheim/A. Windheim
+UID:ddf45f31-6201-4235-b710-96eb337db2ed@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260204T191500
+DTEND;TZID=Europe/Berlin:20260204T211500
+SUMMARY:Vorstellung PSU\; Wietersheim\, Vorbereitung WW
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Lg Wietersheim/A. Windheim\n
+ Details: Vorstellung PSU\; Wietersheim\, Vorbereitung WW
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-4-1770834600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260211T183000
-DTEND:20260211T203000
-SUMMARY:CSA-Trageübung und Einweisung | St. Hansch
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung\\nPersonen: St. Hansch
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-5-1770924600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260212T193000
-DTEND:20260212T213000
-SUMMARY:UVV und Fahrerbelehrung in Lahde | T. Rousselle
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: UVV und Fahrerbelehrung in Lahde\\nPersonen: T. Rousselle
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-6-1771443000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260218T193000
-DTEND:20260218T213000
-SUMMARY:Termin Besichtigung Berenzen mit Wietersheim | T. Apel
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Termin Besichtigung Berenzen mit Wietersheim\\nPersonen: T. Apel
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-7-1772042400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260225T180000
-DTEND:20260225T200000
-SUMMARY:Einweisung Sonargerät T/P | N. Heidkamp
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einweisung Sonargerät T/P\\nPersonen: N. Heidkamp
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-8-1772652600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260304T193000
-DTEND:20260304T213000
-SUMMARY:Druckberechnung Schläuche und Schaum | M. Hartmann/L. Wittkamp
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Druckberechnung Schläuche und Schaum\\nPersonen: M. Hartmann/L. Wittkamp
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-9-1773257400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260311T193000
-DTEND:20260311T213000
-SUMMARY:Atemschutzkonzept Stadt Petershagen | S. Wichmann
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Atemschutzkonzept Stadt Petershagen\\nPersonen: S. Wichmann
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-10-1773862200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260318T193000
-DTEND:20260318T213000
-SUMMARY:Anhörung Aktive wegen stellv. Löschgruppenführer | LdF
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Anhörung Aktive wegen stellv. Löschgruppenführer\\nPersonen: LdF
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-11-1774981800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260331T183000
-DTEND:20260331T203000
-SUMMARY:CSA-Trageübung und Einweisung | St. Hansch
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung\\nPersonen: St. Hansch
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-12-1775071800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260401T193000
-DTEND:20260401T213000
-SUMMARY:FwDV 3: Aufgaben der Trupps bei der Brandbekämpfung | H. Neubert
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: FwDV 3: Aufgaben der Trupps bei der Brandbekämpfung\\nPersonen: H. Neubert
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-13-1775676600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260408T193000
-DTEND:20260408T213000
-SUMMARY:FwDV 3: Aufgaben der Trupps bei der technischen Hilfeleistung | P. Wichmann
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: FwDV 3: Aufgaben der Trupps bei der technischen Hilfeleistung\\nPersonen: P. Wichmann
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-14-1775842200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260410T173000
-DTEND:20260410T193000
-SUMMARY:Atemschutzübungsstrecke FTZ Hille + Grillen im Anschluss | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Atemschutzübungsstrecke FTZ Hille + Grillen im Anschluss\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-15-1776194100@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260414T191500
-DTEND:20260414T211500
-SUMMARY:Zugdienst mit DRK | T. Rousselle
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Zugdienst mit DRK\\nPersonen: T. Rousselle
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-16-1776281400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260415T193000
-DTEND:20260415T213000
-SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-17-1776886200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260422T193000
-DTEND:20260422T213000
-SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-18-1777491000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260429T193000
-DTEND:20260429T213000
-SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-19-1778095800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260506T193000
-DTEND:20260506T213000
-SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-20-1778268600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260508T193000
-DTEND:20260508T213000
-SUMMARY:Üben für Leistungsnachweis Hille | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Üben für Leistungsnachweis Hille\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-21-1746790200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20250509T113000
-DTEND:20250509T133000
-SUMMARY:Leistungsnachweis in Hille | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Leistungsnachweis in Hille\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-22-1779305400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260520T193000
-DTEND:20260520T213000
-SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-23-1779910200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260527T193000
-DTEND:20260527T213000
-SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-24-1781119800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260610T193000
-DTEND:20260610T213000
-SUMMARY:Fahrzeugreinigung wegen Stadtfeuerwehrtreffen | O. Harmening
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Fahrzeugreinigung wegen Stadtfeuerwehrtreffen\\nPersonen: O. Harmening
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-25-1781724600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260617T193000
-DTEND:20260617T213000
-SUMMARY:Flächenbrandbekämpfung | S. Wichmann/T. Volkening
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Flächenbrandbekämpfung\\nPersonen: S. Wichmann/T. Volkening
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-26-1782324000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260624T180000
-DTEND:20260624T200000
-SUMMARY:Sonar Boot Praxis | N. Heidkamp
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Sonar Boot Praxis\\nPersonen: N. Heidkamp
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-27-1782930600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260701T183000
-DTEND:20260701T203000
-SUMMARY:Fahrübung im Gelände | L. Kölling/H. Neubert/T. Böke
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Fahrübung im Gelände\\nPersonen: L. Kölling/H. Neubert/T. Böke
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-28-1783539000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260708T193000
-DTEND:20260708T213000
-SUMMARY:Einsatzübung nach FwDV 3 | D. Thielking/A. Volkening
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einsatzübung nach FwDV 3\\nPersonen: D. Thielking/A. Volkening
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-29-1784143800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260715T193000
-DTEND:20260715T213000
-SUMMARY:Pumpenbetrieb TLF 3000 + TS 2/5 | Lo. Kölling/F. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Pumpenbetrieb TLF 3000 + TS 2/5\\nPersonen: Lo. Kölling/F. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-30-1784748600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260722T193000
-DTEND:20260722T213000
-SUMMARY:Steckleiter (Vornahme an Gebäuden\, Leiterhebel) | K. Belte/J. Rost
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Steckleiter (Vornahme an Gebäuden\, Leiterhebel)\\nPersonen: K. Belte/J. Rost
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-31-1785353400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260729T193000
-DTEND:20260729T213000
-SUMMARY:Einsatzübung nach FwDV 3 | C. Petzold/H.-J. Haase
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einsatzübung nach FwDV 3\\nPersonen: C. Petzold/H.-J. Haase
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-32-1785958200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260805T193000
-DTEND:20260805T213000
-SUMMARY:Pumpenbetrieb LF 20 KatS | F. Hümmer/H. Volkening
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Pumpenbetrieb LF 20 KatS\\nPersonen: F. Hümmer/H. Volkening
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-33-1787167800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260819T193000
-DTEND:20260819T213000
-SUMMARY:Einsatzschulung/-übung nach FwDV 500 | Lg-Führung
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Einsatzschulung/-übung nach FwDV 500\\nPersonen: Lg-Führung
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-34-1850931000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20280826T193000
-DTEND:20280826T213000
-SUMMARY:Reserveradwechsel LF 20 KatS | T. Volkening/M. Klenke
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Reserveradwechsel LF 20 KatS\\nPersonen: T. Volkening/M. Klenke
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-35-1788375600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260902T190000
-DTEND:20260902T210000
-SUMMARY:Grünholen Dorfgemeinschaftsfest | T. Böke
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Grünholen Dorfgemeinschaftsfest\\nPersonen: T. Böke
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-36-1788982200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260909T193000
-DTEND:20260909T213000
-SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-37-1789148700@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260911T174500
-DTEND:20260911T194500
-SUMMARY:Zug 3 Einsatzübung | T. Rousselle
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Zug 3 Einsatzübung\\nPersonen: T. Rousselle
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-38-1758137400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20250917T193000
-DTEND:20250917T213000
-SUMMARY:Ausleuchten von Einsatzstellen | J. Rost\, M. Heidplacke
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Ausleuchten von Einsatzstellen\\nPersonen: J. Rost\, M. Heidplacke
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-39-1790188200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260923T183000
-DTEND:20260923T203000
-SUMMARY:CSA-Trageübung und Einweisung | St. Hansch
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung\\nPersonen: St. Hansch
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-40-1790796600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20260930T193000
-DTEND:20260930T213000
-SUMMARY:Allgemeiner Dienst | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: L. Kölling
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-41-1791401400@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261007T193000
-DTEND:20261007T213000
-SUMMARY:Kurzunterricht Stromerzeuger | C. Petzold/J. Rost
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht Stromerzeuger\\nPersonen: C. Petzold/J. Rost
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-42-1792006200@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261014T193000
-DTEND:20261014T213000
-SUMMARY:Schlauchverlegung mit dem LF 20 KatS | O. Harmening
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Schlauchverlegung mit dem LF 20 KatS\\nPersonen: O. Harmening
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-43-1792611000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261021T193000
-DTEND:20261021T213000
-SUMMARY:Kurzunterricht : Auffangbehälter LF 20 KatS | C. Möller/H.-J. Haase
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht : Auffangbehälter LF 20 KatS\\nPersonen: C. Möller/H.-J. Haase
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-44-1793215800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261028T193000
-DTEND:20261028T213000
-SUMMARY:Kurzunterricht: Verkehrsunfallkasten LF 20 KatS | L. Wittkamp/M. Hartmann
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht: Verkehrsunfallkasten LF 20 KatS\\nPersonen: L. Wittkamp/M. Hartmann
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-45-1793820600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261104T193000
-DTEND:20261104T213000
-SUMMARY:Vornahme und Einsatztaktik Drucklüfter | M. Schneidewind/M. Heidplacke
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Vornahme und Einsatztaktik Drucklüfter\\nPersonen: M. Schneidewind/M. Heidplacke
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-46-1794390300@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261111T094500
-DTEND:20261111T114500
-SUMMARY:Gefahren bei Einsätzen auf DB-Gelände | F. Belte/K. Belte
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Gefahren bei Einsätzen auf DB-Gelände\\nPersonen: F. Belte/K. Belte
-END:VEVENT
-BEGIN:VEVENT
-UID:Dienst-47-1795026600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261118T183000
-DTEND:20261118T203000
+UID:58f389f6-8d74-4cb5-a0b5-bcbf80ca5a61@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260211T183000
+DTEND;TZID=Europe/Berlin:20260211T203000
 SUMMARY:CSA-Trageübung und Einweisung
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: CSA-Trageübung und Einweisung
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: St. Hansch\nDetails: CSA-Tra
+ geübung und Einweisung
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-48-1795635000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261125T193000
-DTEND:20261125T213000
-SUMMARY:Allgemeiner Dienst | Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Allgemeiner Dienst\\nPersonen: Kölling
+UID:7eac34d0-3339-4815-8b64-189d00e166a2@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260212T193000
+DTEND;TZID=Europe/Berlin:20260212T213000
+SUMMARY:UVV und Fahrerbelehrung in Lahde
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Rousselle\nDetails: UVV u
+ nd Fahrerbelehrung in Lahde
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-49-1796239800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261202T193000
-DTEND:20261202T213000
-SUMMARY:Trockensaugproben mit den Pumpen der Fahrzeuge | O. Harmening/T. Volkening
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Trockensaugproben mit den Pumpen der Fahrzeuge\\nPersonen: O. Harmening/T. Volkening
+UID:aa84502e-f8a5-4cdd-8191-95f7c9f99551@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260218T181000
+DTEND;TZID=Europe/Berlin:20260218T213000
+SUMMARY:Termin Besichtigung Berenzen mit Wietersheim
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Apel\nDetails: Termin Bes
+ ichtigung Berenzen mit Wietersheim
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-50-1796499000@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261205T193000
-DTEND:20261205T213000
-SUMMARY:JHV 2026 | L. Kölling
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: JHV 2026\\nPersonen: L. Kölling
+UID:46aae691-0c0d-4b91-8493-50524b05791c@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260225T180000
+DTEND;TZID=Europe/Berlin:20260225T200000
+SUMMARY:Einweisung Sonargerät T/P
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: N. Heidkamp\nDetails: Einwei
+ sung Sonargerät T/P
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-51-1796844600@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261209T193000
-DTEND:20261209T213000
-SUMMARY:Kurzunterricht: Hygiene im Einsatzdienst | H.-J. Haase
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Kurzunterricht: Hygiene im Einsatzdienst\\nPersonen: H.-J. Haase
+UID:04a311f1-79e7-41aa-b5dc-21f4446c6029@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260304T193000
+DTEND;TZID=Europe/Berlin:20260304T213000
+SUMMARY:Druckberechnung Schläuche und Schaum
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: M. Hartmann/L. Wittkamp\nDet
+ ails: Druckberechnung Schläuche und Schaum
 END:VEVENT
 BEGIN:VEVENT
-UID:Dienst-52-1797445800@chatgpt
-DTSTAMP:20260207T092710Z
-DTSTART:20261216T183000
-DTEND:20261216T203000
-SUMMARY:Letzter Dienst vor Weihnachten | L. Kölling/A. Windheim
-DESCRIPTION:Kategorie: Dienst\\nBeschreibung: Letzter Dienst vor Weihnachten\\nPersonen: L. Kölling/A. Windheim
+UID:cd727b92-9679-432d-9509-4fa3bd08b701@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260311T193000
+DTEND;TZID=Europe/Berlin:20260311T213000
+SUMMARY:Atemschutzkonzept Stadt Petershagen
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: S. Wichmann\nDetails: Atemsc
+ hutzkonzept Stadt Petershagen
+END:VEVENT
+BEGIN:VEVENT
+UID:73eb349e-086e-453d-a748-0e1f263dd82b@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260318T193000
+DTEND;TZID=Europe/Berlin:20260318T213000
+SUMMARY:Anhörung Aktive wegen stellv. Löschgruppenführer
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: LdF\nDetails: Anhörung Aktiv
+ e wegen stellv. Löschgruppenführer
+END:VEVENT
+BEGIN:VEVENT
+UID:26ada0bd-8cf0-4d0e-a826-469d3e0923a6@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260331T183000
+DTEND;TZID=Europe/Berlin:20260331T203000
+SUMMARY:CSA-Trageübung und Einweisung
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: St. Hansch\nDetails: CSA-Tra
+ geübung und Einweisung
+END:VEVENT
+BEGIN:VEVENT
+UID:36a7dd09-5e3b-4d7d-9421-2256f3cf0ff3@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260401T193000
+DTEND;TZID=Europe/Berlin:20260401T213000
+SUMMARY:FwDV 3: Aufgaben der Trupps bei der Brandbekämpfung
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: H. Neubert\nDetails: FwDV 3:
+  Aufgaben der Trupps bei der Brandbekämpfung
+END:VEVENT
+BEGIN:VEVENT
+UID:ba035c74-8aab-4293-b1df-9f0d54b2292d@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260408T193000
+DTEND;TZID=Europe/Berlin:20260408T213000
+SUMMARY:FwDV 3: Aufgaben der Trupps bei der technischen Hilfeleistung
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: P. Wichmann\nDetails: FwDV 3
+ : Aufgaben der Trupps bei der technischen Hilfeleistung
+END:VEVENT
+BEGIN:VEVENT
+UID:bd5602b3-ec1b-4baf-8432-75bc476fe014@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260410T173000
+DTEND;TZID=Europe/Berlin:20260410T193000
+SUMMARY:Atemschutzübungsstrecke FTZ Hille + Grillen im Anschluss
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Atemsch
+ utzübungsstrecke FTZ Hille + Grillen im Anschluss
+END:VEVENT
+BEGIN:VEVENT
+UID:a4ab4b8b-4595-4846-90fe-c86133551e5a@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260414T191500
+DTEND;TZID=Europe/Berlin:20260414T211500
+SUMMARY:Zugdienst mit DRK
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Rousselle\nDetails: Zugdi
+ enst mit DRK
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb5b351-79b0-485e-aa84-faf9eb48f203@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260415T193000
+DTEND;TZID=Europe/Berlin:20260415T213000
+SUMMARY:Allgemeiner Dienst
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
+ iner Dienst
+END:VEVENT
+BEGIN:VEVENT
+UID:11e1ada9-d4c4-4926-a0fd-6fe21c6ffe40@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260422T193000
+DTEND;TZID=Europe/Berlin:20260422T213000
+SUMMARY:Üben für Leistungsnachweis Hille
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
+ r Leistungsnachweis Hille
+END:VEVENT
+BEGIN:VEVENT
+UID:da4162db-d651-41d5-b526-5e595d0436c9@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260429T193000
+DTEND;TZID=Europe/Berlin:20260429T213000
+SUMMARY:Üben für Leistungsnachweis Hille
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
+ r Leistungsnachweis Hille
+END:VEVENT
+BEGIN:VEVENT
+UID:f2baf0b8-82fa-4678-b1de-a19b680e1b45@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260506T193000
+DTEND;TZID=Europe/Berlin:20260506T213000
+SUMMARY:Üben für Leistungsnachweis Hille
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
+ r Leistungsnachweis Hille
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdd4def-bc59-4951-80e8-6d355f97f97e@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260508T193000
+DTEND;TZID=Europe/Berlin:20260508T213000
+SUMMARY:Üben für Leistungsnachweis Hille
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
+ r Leistungsnachweis Hille
+END:VEVENT
+BEGIN:VEVENT
+UID:ada91e0f-a381-438b-a97a-65add7d65baa@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260509T113000
+DTEND;TZID=Europe/Berlin:20260509T133000
+SUMMARY:Leistungsnachweis in Hille
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Leistun
+ gsnachweis in Hille
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a34525-0e5b-43ee-ab07-80c17aea9c13@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260520T193000
+DTEND;TZID=Europe/Berlin:20260520T213000
+SUMMARY:Allgemeiner Dienst
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
+ iner Dienst
+END:VEVENT
+BEGIN:VEVENT
+UID:75f37abd-3992-448f-9587-a4fda164faf3@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260527T193000
+DTEND;TZID=Europe/Berlin:20260527T213000
+SUMMARY:Allgemeiner Dienst
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
+ iner Dienst
+END:VEVENT
+BEGIN:VEVENT
+UID:cc12a13b-7388-4d4d-8aa6-b28880c0020b@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260610T193000
+DTEND;TZID=Europe/Berlin:20260610T213000
+SUMMARY:Fahrzeugreinigung wegen Stadtfeuerwehrtreffen
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: O. Harmening\nDetails: Fahrz
+ eugreinigung wegen Stadtfeuerwehrtreffen
+END:VEVENT
+BEGIN:VEVENT
+UID:ed09a4df-559e-4b6b-881d-63abdac7e9fa@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260617T193000
+DTEND;TZID=Europe/Berlin:20260617T213000
+SUMMARY:Flächenbrandbekämpfung
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: S. Wichmann/T. Volkening\nDe
+ tails: Flächenbrandbekämpfung
+END:VEVENT
+BEGIN:VEVENT
+UID:cb56e4e2-1bf4-4cb7-b64a-8eeaf35b4c36@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260624T180000
+DTEND;TZID=Europe/Berlin:20260624T200000
+SUMMARY:Sonar Boot Praxis
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: N. Heidkamp\nDetails: Sonar 
+ Boot Praxis
+END:VEVENT
+BEGIN:VEVENT
+UID:ed232e45-7445-4f66-a986-8ce7040824e0@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260701T183000
+DTEND;TZID=Europe/Berlin:20260701T203000
+SUMMARY:Fahrübung im Gelände
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling/H. Neubert/T. Bök
+ e\nDetails: Fahrübung im Gelände
+END:VEVENT
+BEGIN:VEVENT
+UID:383b7b47-6676-4766-961d-7b84c866c8e2@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260708T193000
+DTEND;TZID=Europe/Berlin:20260708T213000
+SUMMARY:Einsatzübung nach FwDV 3
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: D. Thielking/A. Volkening\nD
+ etails: Einsatzübung nach FwDV 3
+END:VEVENT
+BEGIN:VEVENT
+UID:ee7ab61c-3e34-4267-bae7-afd7acb0f084@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260715T193000
+DTEND;TZID=Europe/Berlin:20260715T213000
+SUMMARY:Pumpenbetrieb TLF 3000 + TS 2/5
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Lo. Kölling/F. Kölling\nDeta
+ ils: Pumpenbetrieb TLF 3000 + TS 2/5
+END:VEVENT
+BEGIN:VEVENT
+UID:a47adb2a-d6e8-42d0-94b8-9c7003daf639@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260722T193000
+DTEND;TZID=Europe/Berlin:20260722T213000
+SUMMARY:Steckleiter (Vornahme an Gebäuden\, Leiterhebel)
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: K. Belte/J. Rost\nDetails: S
+ teckleiter (Vornahme an Gebäuden\, Leiterhebel)
+END:VEVENT
+BEGIN:VEVENT
+UID:89a49d32-da44-4a91-ab9e-010a8dba55f7@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260729T193000
+DTEND;TZID=Europe/Berlin:20260729T213000
+SUMMARY:Einsatzübung nach FwDV 3
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: C. Petzold/H.-J. Haase\nDeta
+ ils: Einsatzübung nach FwDV 3
+END:VEVENT
+BEGIN:VEVENT
+UID:66d8310b-17e4-4a51-9008-8002fb547e26@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260805T193000
+DTEND;TZID=Europe/Berlin:20260805T213000
+SUMMARY:Pumpenbetrieb LF 20 KatS
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: F. Hümmer/H. Volkening\nDeta
+ ils: Pumpenbetrieb LF 20 KatS
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2a402c-04b4-4584-852d-421e021c1b90@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260819T193000
+DTEND;TZID=Europe/Berlin:20260819T213000
+SUMMARY:Einsatzschulung/-übung nach FwDV 500
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Lg-Führung\nDetails: Einsatz
+ schulung/-übung nach FwDV 500
+END:VEVENT
+BEGIN:VEVENT
+UID:22daa75c-ed0f-400d-bee2-6b61286c308a@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260826T193000
+DTEND;TZID=Europe/Berlin:20260826T213000
+SUMMARY:Reserveradwechsel LF 20 KatS
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Volkening/M. Klenke\nDeta
+ ils: Reserveradwechsel LF 20 KatS
+END:VEVENT
+BEGIN:VEVENT
+UID:c15eea4c-ff2b-40c2-88f2-388bb3645615@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260902T190000
+DTEND;TZID=Europe/Berlin:20260902T210000
+SUMMARY:Grünholen Dorfgemeinschaftsfest
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Böke\nDetails: Grünholen 
+ Dorfgemeinschaftsfest
+END:VEVENT
+BEGIN:VEVENT
+UID:88e5da57-7df6-4753-8ecc-f772f4a84553@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260909T193000
+DTEND;TZID=Europe/Berlin:20260909T213000
+SUMMARY:Allgemeiner Dienst
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
+ iner Dienst
+END:VEVENT
+BEGIN:VEVENT
+UID:52895399-f47e-4cdf-a906-ad87a4963e16@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260911T174500
+DTEND;TZID=Europe/Berlin:20260911T194500
+SUMMARY:Zug 3 Einsatzübung
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Rousselle\nDetails: Zug 3
+  Einsatzübung
+END:VEVENT
+BEGIN:VEVENT
+UID:943a351a-bbd1-4af0-be1c-06b970e61e2f@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260917T193000
+DTEND;TZID=Europe/Berlin:20260917T213000
+SUMMARY:Ausleuchten von Einsatzstellen
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: J. Rost\, M. Heidplacke\nDet
+ ails: Ausleuchten von Einsatzstellen
+END:VEVENT
+BEGIN:VEVENT
+UID:0f649e21-4e22-4c09-b93b-d3bebddf4983@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260923T183000
+DTEND;TZID=Europe/Berlin:20260923T203000
+SUMMARY:CSA-Trageübung und Einweisung
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: St. Hansch\nDetails: CSA-Tra
+ geübung und Einweisung
+END:VEVENT
+BEGIN:VEVENT
+UID:d38e20df-6d1d-493e-af63-852960979544@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20260930T193000
+DTEND;TZID=Europe/Berlin:20260930T213000
+SUMMARY:Allgemeiner Dienst
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
+ iner Dienst
+END:VEVENT
+BEGIN:VEVENT
+UID:482d9b99-6c12-4051-acdc-23c590e1240f@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261007T193000
+DTEND;TZID=Europe/Berlin:20261007T213000
+SUMMARY:Kurzunterricht Stromerzeuger
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: C. Petzold/J. Rost\nDetails:
+  Kurzunterricht Stromerzeuger
+END:VEVENT
+BEGIN:VEVENT
+UID:0da212e7-13b5-4ff8-b0fd-fa49d559187b@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261014T193000
+DTEND;TZID=Europe/Berlin:20261014T213000
+SUMMARY:Schlauchverlegung mit dem LF 20 KatS
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: O. Harmening\nDetails: Schla
+ uchverlegung mit dem LF 20 KatS
+END:VEVENT
+BEGIN:VEVENT
+UID:039cfe6e-2dba-42e6-b76a-4f2d9520742a@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261021T193000
+DTEND;TZID=Europe/Berlin:20261021T213000
+SUMMARY:Kurzunterricht : Auffangbehälter LF 20 KatS
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: C. Möller/H.-J. Haase\nDetai
+ ls: Kurzunterricht : Auffangbehälter LF 20 KatS
+END:VEVENT
+BEGIN:VEVENT
+UID:369be916-717c-46a9-9bb7-54a0548d2407@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261028T193000
+DTEND;TZID=Europe/Berlin:20261028T213000
+SUMMARY:Kurzunterricht: Verkehrsunfallkasten LF 20 KatS
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Wittkamp/M. Hartmann\nDet
+ ails: Kurzunterricht: Verkehrsunfallkasten LF 20 KatS
+END:VEVENT
+BEGIN:VEVENT
+UID:abb7fc1a-1a2a-409b-bfd5-d7ba8d6f5b47@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261104T193000
+DTEND;TZID=Europe/Berlin:20261104T213000
+SUMMARY:Vornahme und Einsatztaktik Drucklüfter
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: M. Schneidewind/M. Heidplack
+ e\nDetails: Vornahme und Einsatztaktik Drucklüfter
+END:VEVENT
+BEGIN:VEVENT
+UID:44429b80-5d67-4b98-8351-f1c1f68fd3ee@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261111T094500
+DTEND;TZID=Europe/Berlin:20261111T114500
+SUMMARY:Gefahren bei Einsätzen auf DB-Gelände
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: F. Belte/K. Belte\nDetails: 
+ Gefahren bei Einsätzen auf DB-Gelände
+END:VEVENT
+BEGIN:VEVENT
+UID:fde13050-9a63-48aa-8d5b-8958127aa398@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261118T183000
+DTEND;TZID=Europe/Berlin:20261118T203000
+SUMMARY:CSA-Trageübung und Einweisung
+DESCRIPTION:Kategorie: Dienst\nDetails: CSA-Trageübung und Einweisung
+END:VEVENT
+BEGIN:VEVENT
+UID:09cd7c78-868c-4a7c-98c2-60ad2330fcb8@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261125T193000
+DTEND;TZID=Europe/Berlin:20261125T213000
+SUMMARY:Allgemeiner Dienst
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Kölling\nDetails: Allgemeine
+ r Dienst
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e266f7-07b0-4db4-9b23-94defb5f1838@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261202T193000
+DTEND;TZID=Europe/Berlin:20261202T213000
+SUMMARY:Trockensaugproben mit den Pumpen der Fahrzeuge
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: O. Harmening/T. Volkening\nD
+ etails: Trockensaugproben mit den Pumpen der Fahrzeuge
+END:VEVENT
+BEGIN:VEVENT
+UID:a97120b1-7fad-4ee5-a5f1-f2f2ee9a5ec2@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261205T193000
+DTEND;TZID=Europe/Berlin:20261205T213000
+SUMMARY:JHV 2026
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: JHV 202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+UID:6babab3d-5087-462c-ab2e-fd9992c1ec0b@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261209T193000
+DTEND;TZID=Europe/Berlin:20261209T213000
+SUMMARY:Kurzunterricht: Hygiene im Einsatzdienst
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: H.-J. Haase\nDetails: Kurzun
+ terricht: Hygiene im Einsatzdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:fbba236a-070a-4434-99f5-eff823961995@lg-frille
+DTSTAMP:20260214T075725Z
+DTSTART;TZID=Europe/Berlin:20261216T183000
+DTEND;TZID=Europe/Berlin:20261216T203000
+SUMMARY:Letzter Dienst vor Weihnachten
+DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling/A. Windheim\nDeta
+ ils: Letzter Dienst vor Weihnachten
 END:VEVENT
 END:VCALENDAR
