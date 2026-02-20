@@ -1,158 +1,164 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//LG Frille//Dienstplan 2026//DE
+PRODID:-//excel-to-ics//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Dienstplan Taucher 2026
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:a707da53-9e2d-4807-8857-25619a5866c7@lg-frille
-DTSTAMP:20260214T075725Z
-DTSTART;TZID=Europe/Berlin:20260129T180000
-DTEND;TZID=Europe/Berlin:20260129T200000
+UID:af820492-d8b3-535b-98b5-101ea707fdcb@excel-to-ics
+DTSTAMP:20260220T090157Z
 SUMMARY:Tauchdienstbesprechung
 DESCRIPTION:Kategorie: Taucher\nVerantwortlich: P. Wichmann/N. Heidkamp\nDe
  tails: Tauchdienstbesprechung
+DTSTART;TZID=Europe/Berlin:20260129T180000
+DTEND;TZID=Europe/Berlin:20260129T200000
 END:VEVENT
 BEGIN:VEVENT
-UID:d93d281b-3207-4cb7-9001-bfd20ac19591@lg-frille
-DTSTAMP:20260214T075725Z
+UID:631324c7-e2e4-5eb1-85fe-177cb188609c@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen/Boot
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen/B
+ oot
 DTSTART;TZID=Europe/Berlin:20260307T100000
 DTEND;TZID=Europe/Berlin:20260307T120000
-SUMMARY:Übungstauchen/Boot
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen/Boot
 END:VEVENT
 BEGIN:VEVENT
-UID:1764ca5f-66e9-48f0-b982-198352fc24ef@lg-frille
-DTSTAMP:20260214T075725Z
+UID:17ae846f-3ed8-5588-9cb2-b57a7f356928@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen Einsatzübung
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen E
+ insatzübung
 DTSTART;TZID=Europe/Berlin:20260321T100000
 DTEND;TZID=Europe/Berlin:20260321T120000
-SUMMARY:Übungstauchen Einsatzübung
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen Einsatzübung
 END:VEVENT
 BEGIN:VEVENT
-UID:beb2b2a2-fba7-4d3c-975d-47ceee64ead4@lg-frille
-DTSTAMP:20260214T075725Z
+UID:e535be2b-d2d1-55c2-906e-30780e7bcf89@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen technische Hilfe
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen t
+ echnische Hilfe
 DTSTART;TZID=Europe/Berlin:20260411T100000
 DTEND;TZID=Europe/Berlin:20260411T120000
-SUMMARY:Übungstauchen technische Hilfe
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen technische Hilfe
 END:VEVENT
 BEGIN:VEVENT
-UID:662e0585-7e7e-4ddc-a1d1-b607c00c7c3b@lg-frille
-DTSTAMP:20260214T075725Z
+UID:fb557eae-cb8e-5a56-b0f2-1cd711503d5d@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Tauchernotfallmanagement
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Tauchernotfallm
+ anagement
 DTSTART;TZID=Europe/Berlin:20260417T170000
 DTEND;TZID=Europe/Berlin:20260417T190000
-SUMMARY:Tauchernotfallmanagement
-DESCRIPTION:Kategorie: Taucher\nDetails: Tauchernotfallmanagement
 END:VEVENT
 BEGIN:VEVENT
-UID:1ab1e5c1-7aee-490e-aeb4-dcab0f2d55e6@lg-frille
-DTSTAMP:20260214T075725Z
+UID:3f993cf7-ccca-57b3-8baa-adfc1b211d8b@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen
 DTSTART;TZID=Europe/Berlin:20260421T180000
 DTEND;TZID=Europe/Berlin:20260421T200000
-SUMMARY:Übungstauchen
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen
 END:VEVENT
 BEGIN:VEVENT
-UID:be78ddfd-6829-4f49-a15d-cef500ba4a14@lg-frille
-DTSTAMP:20260214T075725Z
+UID:78880b58-fd00-51a1-b595-e8a51a09c7ba@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen
 DTSTART;TZID=Europe/Berlin:20260507T180000
 DTEND;TZID=Europe/Berlin:20260507T200000
-SUMMARY:Übungstauchen
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen
 END:VEVENT
 BEGIN:VEVENT
-UID:bc777ef5-ab50-4d07-a98b-b813053a3745@lg-frille
-DTSTAMP:20260214T075725Z
-DTSTART;TZID=Europe/Berlin:20260519T193000
-DTEND;TZID=Europe/Berlin:20260519T213000
+UID:2fa1f289-b0f6-5cd3-ae2c-a59d6f3bdd9e@excel-to-ics
+DTSTAMP:20260220T090157Z
 SUMMARY:Zentrale Wasserrettungsausbildung
 DESCRIPTION:Kategorie: Taucher\nVerantwortlich: LdF\nDetails: Zentrale Wass
  errettungsausbildung
+DTSTART;TZID=Europe/Berlin:20260519T193000
+DTEND;TZID=Europe/Berlin:20260519T213000
 END:VEVENT
 BEGIN:VEVENT
-UID:3c318c73-f983-4b10-9783-00d20e41a0b8@lg-frille
-DTSTAMP:20260214T075725Z
+UID:6a47287f-c5ed-556b-8439-5fc5695aa912@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Besuch FTG Kreis Heinsberg
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Besuch FTG Krei
+ s Heinsberg
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
-SUMMARY:Besuch FTG Kreis Heinsberg
-DESCRIPTION:Kategorie: Taucher\nDetails: Besuch FTG Kreis Heinsberg
 END:VEVENT
 BEGIN:VEVENT
-UID:c6770d89-de2f-42ed-9fa3-98614d963321@lg-frille
-DTSTAMP:20260214T075725Z
+UID:b56ebec9-093a-5151-b110-d2f6b30ed4bb@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen
 DTSTART;TZID=Europe/Berlin:20260611T180000
 DTEND;TZID=Europe/Berlin:20260611T200000
-SUMMARY:Übungstauchen
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen
 END:VEVENT
 BEGIN:VEVENT
-UID:d0ee7441-f634-4425-9edb-d397f6fa08eb@lg-frille
-DTSTAMP:20260214T075725Z
-DTSTART;TZID=Europe/Berlin:20260718T100000
-DTEND;TZID=Europe/Berlin:20260718T120000
+UID:644a90e9-a974-5c6e-9cd1-08a4118ecb8b@excel-to-ics
+DTSTAMP:20260220T090157Z
 SUMMARY:Wasserrettungsübung Stadt
 DESCRIPTION:Kategorie: Taucher\nVerantwortlich: LdF\nDetails: Wasserrettung
  sübung Stadt
+DTSTART;TZID=Europe/Berlin:20260718T100000
+DTEND;TZID=Europe/Berlin:20260718T120000
 END:VEVENT
 BEGIN:VEVENT
-UID:f9ed4d61-da74-4f62-9877-15e3b415a219@lg-frille
-DTSTAMP:20260214T075725Z
+UID:cee5db27-0132-50b3-a181-4b0724194f6d@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen
 DTSTART;TZID=Europe/Berlin:20260728T180000
 DTEND;TZID=Europe/Berlin:20260728T200000
-SUMMARY:Übungstauchen
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen
 END:VEVENT
 BEGIN:VEVENT
-UID:580bd053-6f7a-4301-9d23-57e3e69a52f6@lg-frille
-DTSTAMP:20260214T075725Z
+UID:39cb4f1a-ecbd-5a6b-9cee-92b5eaa4bfe7@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Kleiderkammer + Vorstellungsgespräch
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Kleiderkammer +
+  Vorstellungsgespräch
 DTSTART;TZID=Europe/Berlin:20260804T183000
 DTEND;TZID=Europe/Berlin:20260804T203000
-SUMMARY:Kleiderkammer + Vorstellungsgespräch
-DESCRIPTION:Kategorie: Taucher\nDetails: Kleiderkammer + Vorstellungsgesprä
- ch
 END:VEVENT
 BEGIN:VEVENT
-UID:5c8edf60-ea63-45f9-9897-518b403d5298@lg-frille
-DTSTAMP:20260214T075725Z
-DTSTART;TZID=Europe/Berlin:20260919T100000
-DTEND;TZID=Europe/Berlin:20260919T120000
+UID:912ca3b5-3092-5463-847c-aa8eca86e1b3@excel-to-ics
+DTSTAMP:20260220T090157Z
 SUMMARY:Zentrale Wasserrettungsausbildung
 DESCRIPTION:Kategorie: Taucher\nVerantwortlich: LdF\nDetails: Zentrale Wass
  errettungsausbildung
+DTSTART;TZID=Europe/Berlin:20260919T100000
+DTEND;TZID=Europe/Berlin:20260919T120000
 END:VEVENT
 BEGIN:VEVENT
-UID:06fb00f9-cae2-46ce-8e0e-87c91b9f294d@lg-frille
-DTSTAMP:20260214T075725Z
+UID:640128f4-0d5c-508a-990a-34bedad7b0dc@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen Einsatzübung
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen E
+ insatzübung
 DTSTART;TZID=Europe/Berlin:20260929T180000
 DTEND;TZID=Europe/Berlin:20260929T200000
-SUMMARY:Übungstauchen Einsatzübung
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen Einsatzübung
 END:VEVENT
 BEGIN:VEVENT
-UID:cd1c7d9c-2b58-4956-9e93-ae2859e23bca@lg-frille
-DTSTAMP:20260214T075725Z
+UID:3b7b9a1d-385d-55f8-96e0-4b66a9f005d6@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen
 DTSTART;TZID=Europe/Berlin:20261024T100000
 DTEND;TZID=Europe/Berlin:20261024T120000
-SUMMARY:Übungstauchen
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen
 END:VEVENT
 BEGIN:VEVENT
-UID:95ebc7bb-8322-4a74-ac14-4d214d7f6785@lg-frille
-DTSTAMP:20260214T075725Z
+UID:8b0e1ce0-7007-57ce-a96a-2f4b268a926e@excel-to-ics
+DTSTAMP:20260220T090157Z
+SUMMARY:Übungstauchen technische Hilfe
+DESCRIPTION:Kategorie: Taucher\nVerantwortlich: -\nDetails: Übungstauchen t
+ echnische Hilfe
 DTSTART;TZID=Europe/Berlin:20261107T100000
 DTEND;TZID=Europe/Berlin:20261107T120000
-SUMMARY:Übungstauchen technische Hilfe
-DESCRIPTION:Kategorie: Taucher\nDetails: Übungstauchen technische Hilfe
 END:VEVENT
 BEGIN:VEVENT
-UID:78b15e39-139e-480f-9328-e28cfe07682c@lg-frille
-DTSTAMP:20260214T075725Z
-DTSTART;TZID=Europe/Berlin:20261224T100000
-DTEND;TZID=Europe/Berlin:20261224T120000
+UID:5bcb609d-d23d-597e-adbe-db853ac6ed6a@excel-to-ics
+DTSTAMP:20260220T090157Z
 SUMMARY:Weihnachstauchen
 DESCRIPTION:Kategorie: Taucher\nVerantwortlich: P. Wichmann/N. Heidkamp\nDe
  tails: Weihnachstauchen
+DTSTART;TZID=Europe/Berlin:20261224T100000
+DTEND;TZID=Europe/Berlin:20261224T120000
 END:VEVENT
 END:VCALENDAR
