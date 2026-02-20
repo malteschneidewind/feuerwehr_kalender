@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:b09d05f0-66aa-538b-9044-60a280abc71e@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
 DTSTART;TZID=Europe/Berlin:20260106T183000
@@ -14,7 +14,7 @@ DTEND;TZID=Europe/Berlin:20260106T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:c3453be2-5d16-50df-9de4-7ae29619f921@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Vorbereitung Aktion Tannebaum / Kartenkunde
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: T. Volkening\nDetails: Vo
  rbereitung Aktion Tannebaum / Kartenkunde
@@ -23,7 +23,7 @@ DTEND;TZID=Europe/Berlin:20260107T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:9087cd22-80e3-51d1-9a37-adda9cca6cb5@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Aktion Tannenbaum
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: T. Volkening\nDetails: Ak
  tion Tannenbaum
@@ -32,7 +32,7 @@ DTEND;TZID=Europe/Berlin:20260110T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:bd33d4d3-4f2b-57da-966c-57954eb98a47@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Besprechung Gerätewarte in Lahde
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: O. Harmening/J. Harmening
  \nDetails: Besprechung Gerätewarte in Lahde
@@ -41,7 +41,7 @@ DTEND;TZID=Europe/Berlin:20260114T210000
 END:VEVENT
 BEGIN:VEVENT
 UID:330ce601-3cfb-53ea-9ff6-21d8e1eadf2d@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer + Vorstellungsgespräch
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
   + Vorstellungsgespräch
@@ -50,7 +50,7 @@ DTEND;TZID=Europe/Berlin:20260203T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:62e1bd58-ff89-53e2-ab2e-a5dc99aad28f@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Winterwanderung
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: A. Windheim\nDetails: Win
  terwanderung
@@ -59,7 +59,7 @@ DTEND;TZID=Europe/Berlin:20260214T150000
 END:VEVENT
 BEGIN:VEVENT
 UID:595be810-7790-5377-8eca-41976d8e8fed@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kart fahren
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: M. Schneidewind\nDetails:
   Kart fahren
@@ -68,7 +68,7 @@ DTEND;TZID=Europe/Berlin:20260228T180000
 END:VEVENT
 BEGIN:VEVENT
 UID:101f4634-ec35-5948-af26-2b2137174569@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
 DTSTART;TZID=Europe/Berlin:20260303T183000
@@ -76,7 +76,7 @@ DTEND;TZID=Europe/Berlin:20260303T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:1ecb592e-d4b2-569f-ac3c-f9d312bb86e0@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Aktion Saubere Landschaft
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: H.-J. Haase\nDetails: Akt
  ion Saubere Landschaft
@@ -85,7 +85,7 @@ DTEND;TZID=Europe/Berlin:20260328T103000
 END:VEVENT
 BEGIN:VEVENT
 UID:b943c5db-72f6-53ae-849a-ed7e80c10d45@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer + Vorstellungsgespräch
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
   + Vorstellungsgespräch
@@ -94,7 +94,7 @@ DTEND;TZID=Europe/Berlin:20260407T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:d35e7200-f726-52f1-a9c6-fbc20056f54d@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
 DTSTART;TZID=Europe/Berlin:20260505T183000
@@ -102,7 +102,7 @@ DTEND;TZID=Europe/Berlin:20260505T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:225460a8-2341-5ec9-9686-9dce9153b446@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Dorfpokalschießen
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: S. Wichmann\nDetails: Dor
  fpokalschießen
@@ -111,7 +111,7 @@ DTEND;TZID=Europe/Berlin:20260513T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:0d92bb42-949f-5d98-9c97-10c8a3fc1113@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Dorfpokalschießen
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: S. Wichmann\nDetails: Dor
  fpokalschießen
@@ -120,7 +120,7 @@ DTEND;TZID=Europe/Berlin:20260514T120000
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2d4e66-5355-5b12-8cca-00ab229dd0b0@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:O-Wandern JF in Jössen
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: StJfw\nDetails: O-Wandern
   JF in Jössen
@@ -129,7 +129,7 @@ DTEND;VALUE=DATE:20260517
 END:VEVENT
 BEGIN:VEVENT
 UID:13894d10-b065-5ba4-9277-20a76ea262a2@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Spiel ohne Grenzen in MI-Meißen
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: KJfw\nDetails: Spiel ohne
   Grenzen in MI-Meißen
@@ -138,7 +138,7 @@ DTEND;VALUE=DATE:20260531
 END:VEVENT
 BEGIN:VEVENT
 UID:2f46f9e0-2394-543f-9580-3c0de98a01d5@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Siegerehrung Dorfpokalschießen
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: S. Wichmann\nDetails: Sie
  gerehrung Dorfpokalschießen
@@ -147,7 +147,7 @@ DTEND;TZID=Europe/Berlin:20260530T193000
 END:VEVENT
 BEGIN:VEVENT
 UID:3863e35c-eea3-5999-9a6e-af3956a23d27@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Interschutz in Hannover
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Interschutz i
  n Hannover
@@ -156,7 +156,7 @@ DTEND;VALUE=DATE:20260607
 END:VEVENT
 BEGIN:VEVENT
 UID:aeeef8be-5711-5a21-a123-36a9838dc180@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Schellerhau
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: H.-J. Haase/A. Windheim\n
  Details: Schellerhau
@@ -165,7 +165,7 @@ DTEND;VALUE=DATE:20260608
 END:VEVENT
 BEGIN:VEVENT
 UID:b38c839e-3892-527f-8755-eaf9c0ee3840@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer + Vorstellungsgespräch
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
   + Vorstellungsgespräch
@@ -174,7 +174,7 @@ DTEND;TZID=Europe/Berlin:20260602T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:6907a31f-c119-5179-bce2-e86309f217ca@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Stadtpokal KF und JF in Ilvese
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: A. Gerling/T. Volkening\n
  Details: Stadtpokal KF und JF in Ilvese
@@ -183,7 +183,7 @@ DTEND;VALUE=DATE:20260614
 END:VEVENT
 BEGIN:VEVENT
 UID:03108bf9-c2d8-575b-a5ab-27ee943bed18@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Stadtfeuerwehrtreffen in Ilvese
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: LdF\nDetails: Stadtfeuerw
  ehrtreffen in Ilvese
@@ -192,7 +192,7 @@ DTEND;TZID=Europe/Berlin:20260614T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:0b137c7d-b3cf-52dd-bcd2-36d462beebf5@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:WM Spiel Deutschland - Elfenbeinküste 22 Uhr\, vorher grillen
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: A. Windheim\nDetails: WM 
  Spiel Deutschland - Elfenbeinküste 22 Uhr\, vorher grillen
@@ -201,7 +201,7 @@ DTEND;TZID=Europe/Berlin:20260620T210000
 END:VEVENT
 BEGIN:VEVENT
 UID:c7bab384-635a-576e-a164-90c2afcf5175@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:WM Spiel Ecuador - Deutschland
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: A. Windheim\nDetails: WM 
  Spiel Ecuador - Deutschland
@@ -210,7 +210,7 @@ DTEND;TZID=Europe/Berlin:20260625T233000
 END:VEVENT
 BEGIN:VEVENT
 UID:8c9f47f8-0261-52f1-9169-ee536cdd3ce2@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kreispokal JF in Stemwede-Wehdem
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: KJfw\nDetails: Kreispokal
   JF in Stemwede-Wehdem
@@ -219,7 +219,7 @@ DTEND;VALUE=DATE:20260628
 END:VEVENT
 BEGIN:VEVENT
 UID:da0cc24f-9b44-5578-ad5f-7f4d46b66225@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kinderfest Grundschule Frille
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: O. Harmening/T. Volkening
  \nDetails: Kinderfest Grundschule Frille
@@ -228,7 +228,7 @@ DTEND;TZID=Europe/Berlin:20260627T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:5c5eb5d4-bf31-5c5b-8311-83dedceef9b8@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
 DTSTART;TZID=Europe/Berlin:20260707T183000
@@ -236,7 +236,7 @@ DTEND;TZID=Europe/Berlin:20260707T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:5b9adc61-d3fe-5703-9171-1613c1c38302@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:KF Olympiade in Stemwede
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: KFFw\nDetails: KF Olympia
  de in Stemwede
@@ -245,7 +245,7 @@ DTEND;VALUE=DATE:20260712
 END:VEVENT
 BEGIN:VEVENT
 UID:1df00349-7d5d-57d8-abe4-cedac022f825@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Versorgung Maschinistenausbildung M 20 in Lahde
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Versorgung Ma
  schinistenausbildung M 20 in Lahde
@@ -254,7 +254,7 @@ DTEND;TZID=Europe/Berlin:20260725T094500
 END:VEVENT
 BEGIN:VEVENT
 UID:10d95d17-1b30-56a1-8f95-ea074382ba8b@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Fahrradtour
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: A. Windheim\nDetails: Fah
  rradtour
@@ -263,7 +263,7 @@ DTEND;TZID=Europe/Berlin:20260812T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:2838ea59-c207-562b-a379-0a6b4f597b81@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kart fahren
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: M. Schneidewind\nDetails:
   Kart fahren
@@ -272,7 +272,7 @@ DTEND;TZID=Europe/Berlin:20260822T180000
 END:VEVENT
 BEGIN:VEVENT
 UID:f900dc3b-7591-5a41-a65a-561c0a229d04@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
 DTSTART;TZID=Europe/Berlin:20260901T183000
@@ -280,7 +280,7 @@ DTEND;TZID=Europe/Berlin:20260901T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:6f1b6308-4b8c-52ec-bccb-244a3550b432@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Dorfgemeinschaftsfest
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Dorfgemeinsch
  aftsfest
@@ -289,7 +289,7 @@ DTEND;VALUE=DATE:20260907
 END:VEVENT
 BEGIN:VEVENT
 UID:a8be80c1-d5a3-56b6-beab-6981a9956d9b@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Leistungsspange JF
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: KJfw\nDetails: Leistungss
  pange JF
@@ -298,7 +298,7 @@ DTEND;VALUE=DATE:20260913
 END:VEVENT
 BEGIN:VEVENT
 UID:4868dbbf-96bd-5e44-b7ca-f141974ef688@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Orientierungswandern Kreis
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Orientierungs
  wandern Kreis
@@ -307,7 +307,7 @@ DTEND;VALUE=DATE:20260920
 END:VEVENT
 BEGIN:VEVENT
 UID:71598e1b-c75b-5341-a862-13336c4a559d@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Bobbycarrennen 25 Jahre JF Petershagen-Ort
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Bobbycarrenne
  n 25 Jahre JF Petershagen-Ort
@@ -316,7 +316,7 @@ DTEND;VALUE=DATE:20260927
 END:VEVENT
 BEGIN:VEVENT
 UID:b03f216e-d096-5cbc-a3c7-5b916d37e2ae@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer + Vorstellungsgespräch
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
   + Vorstellungsgespräch
@@ -325,7 +325,7 @@ DTEND;TZID=Europe/Berlin:20261006T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:6596d741-3bd6-58b6-9733-cb4009e15521@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Ausbildertreffen AusbGem in Petershagen
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Ausbildertref
  fen AusbGem in Petershagen
@@ -334,7 +334,7 @@ DTEND;VALUE=DATE:20261010
 END:VEVENT
 BEGIN:VEVENT
 UID:c8cd3b54-ab0c-5aac-932a-b62f45432b78@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kinderflammenabnahme KF
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kinderflammen
  abnahme KF
@@ -343,7 +343,7 @@ DTEND;VALUE=DATE:20261011
 END:VEVENT
 BEGIN:VEVENT
 UID:4523039c-68ff-5de7-90f2-ada12e35fc97@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
 DTSTART;TZID=Europe/Berlin:20261103T183000
@@ -351,7 +351,7 @@ DTEND;TZID=Europe/Berlin:20261103T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:d5ae3da5-a092-5e84-a3e4-13632c7b0b42@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Volkstrauertag
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: Lg-Führung\nDetails: Volk
  strauertag
@@ -360,7 +360,7 @@ DTEND;TZID=Europe/Berlin:20261115T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:97413180-06e3-57c9-823e-5d38293d02cb@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Völkerballturnier in Lahde
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: LdF\nDetails: Völkerballt
  urnier in Lahde
@@ -369,7 +369,7 @@ DTEND;TZID=Europe/Berlin:20261121T130000
 END:VEVENT
 BEGIN:VEVENT
 UID:6aabf85c-1292-5bd0-98a0-7955528fec8b@excel-to-ics
-DTSTAMP:20260220T090157Z
+DTSTAMP:20260220T090844Z
 SUMMARY:Kleiderkammer + Vorstellungsgespräch
 DESCRIPTION:Kategorie: Sonstiges\nVerantwortlich: -\nDetails: Kleiderkammer
   + Vorstellungsgespräch

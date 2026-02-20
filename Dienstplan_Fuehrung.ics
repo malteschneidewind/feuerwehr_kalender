@@ -1,117 +1,133 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ChatGPT//Dienstplan//DE
+PRODID:-//excel-to-ics//DE
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:Fuhrung-0-1768075200@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260110T200000
-DTEND:20260110T220000
-SUMMARY:JHV Lg Wietersheim | Lg-Führung
-DESCRIPTION:Beschreibung: JHV Lg Wietersheim\nPersonen: Lg-Führung
+UID:f931f300-a38e-5014-aa28-64fbc8d4b37e@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:JHV Lg Wietersheim
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: Lg-Führung\nDetails: JHV Lg
+  Wietersheim
+DTSTART;TZID=Europe/Berlin:20260110T200000
+DTEND;TZID=Europe/Berlin:20260110T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-1-1772134200@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260226T193000
-DTEND:20260226T213000
-SUMMARY:Zug 3 Führungskräftebesprechung | T. Rousselle
-DESCRIPTION:Beschreibung: Zug 3 Führungskräftebesprechung\nPersonen: T. Rousselle
+UID:4c228c34-7dfa-544b-a4ba-d964d40dae7a@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Zug 3 Führungskräftebesprechung
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: T. Rousselle\nDetails: Zug 
+ 3 Führungskräftebesprechung
+DTSTART;TZID=Europe/Berlin:20260226T193000
+DTEND;TZID=Europe/Berlin:20260226T213000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-2-1773342000@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260312T190000
-DTEND:20260312T210000
-SUMMARY:Vorstandssitzung Gerätehaus | L. Kölling
-DESCRIPTION:Beschreibung: Vorstandssitzung Gerätehaus\nPersonen: L. Kölling  
+UID:a063877f-0c9c-5ead-ad38-4f370dc7a960@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Vorstandssitzung Gerätehaus
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: L. Kölling\nDetails: Vorsta
+ ndssitzung Gerätehaus
+DTSTART;TZID=Europe/Berlin:20260312T190000
+DTEND;TZID=Europe/Berlin:20260312T210000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-3-1773360000@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260313T000000
-DTEND:20260313T230000
-SUMMARY:Kreisverbandstag | KBM
-DESCRIPTION:Beschreibung: Kreisverbandstag\nPersonen: KBM
+UID:8583608f-bebe-5fd7-a4d7-1ed4cf12ed82@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Kreisverbandstag
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: KBM\nDetails: Kreisverbands
+ tag
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-4-1774467000@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260325T193000
-DTEND:20260325T213000
-SUMMARY:Dienstbesprechung Stadt | LdF
-DESCRIPTION:Beschreibung: Dienstbesprechung Stadt\nPersonen: LdF
+UID:2380929d-ff9c-5cd6-93a1-02417aa2777b@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Dienstbesprechung Stadt
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: LdF\nDetails: Dienstbesprec
+ hung Stadt
+DTSTART;TZID=Europe/Berlin:20260325T193000
+DTEND;TZID=Europe/Berlin:20260325T213000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-5-1774688400@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260328T090000
-DTEND:20260328T110000
-SUMMARY:Fortbildung Führungskräfte | LdF
-DESCRIPTION:Beschreibung: Fortbildung Führungskräfte\nPersonen: LdF
+UID:c477eab8-014c-5410-b4a5-1a328cbf3258@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Fortbildung Führungskräfte
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: LdF\nDetails: Fortbildung F
+ ührungskräfte
+DTSTART;TZID=Europe/Berlin:20260328T090000
+DTEND;TZID=Europe/Berlin:20260328T110000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-6-1776970800@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260423T190000
-DTEND:20260423T210000
-SUMMARY:Zugbesprechung Führungskräfte | T. Rousselle
-DESCRIPTION:Beschreibung: Zugbesprechung Führungskräfte\nPersonen: T. Rousselle
+UID:72c83bc7-14a4-5a7d-bdaf-e4cf0308d890@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Zugbesprechung Führungskräfte
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: T. Rousselle\nDetails: Zugb
+ esprechung Führungskräfte
+DTSTART;TZID=Europe/Berlin:20260423T190000
+DTEND;TZID=Europe/Berlin:20260423T210000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-7-1790276400@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260924T190000
-DTEND:20260924T210000
-SUMMARY:Dienstbesprechung Stadt | LdF
-DESCRIPTION:Beschreibung: Dienstbesprechung Stadt\nPersonen: LdF
+UID:20b65841-c6c3-54dd-a3fb-7937482065fa@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Dienstbesprechung Stadt
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: LdF\nDetails: Dienstbesprec
+ hung Stadt
+DTSTART;TZID=Europe/Berlin:20260924T190000
+DTEND;TZID=Europe/Berlin:20260924T210000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-8-1790294400@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20260925T000000
-DTEND:20260925T230000
-SUMMARY:Ehemalige FK Alte Brandmeister | LdF
-DESCRIPTION:Beschreibung: Ehemalige FK Alte Brandmeister\nPersonen: LdF
+UID:51f4f5ad-f0c4-5d11-adf6-ec842f012451@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Ehemalige FK Alte Brandmeister
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: LdF\nDetails: Ehemalige FK 
+ Alte Brandmeister
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-9-1795219200@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20261121T000000
-DTEND:20261121T230000
-SUMMARY:Treffen Ehrenabteilung in Levern | KBM
-DESCRIPTION:Beschreibung: Treffen Ehrenabteilung in Levern\nPersonen: KBM
+UID:e8e3f0fe-c668-508b-a512-2595bd8481f9@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Treffen Ehrenabteilung in Levern
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: KBM\nDetails: Treffen Ehren
+ abteilung in Levern
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-10-1795546800@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20261124T190000
-DTEND:20261124T210000
-SUMMARY:Zug 3: Jahresabschlussbesprechung Führungskräfte | T. Rousselle
-DESCRIPTION:Beschreibung: Zug 3: Jahresabschlussbesprechung Führungskräfte\nPersonen: T. Rousselle
+UID:1d33a4bb-a01b-50f2-ad42-c73dc1e6c65a@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Zug 3: Jahresabschlussbesprechung Führungskräfte
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: T. Rousselle\nDetails: Zug 
+ 3: Jahresabschlussbesprechung Führungskräfte
+DTSTART;TZID=Europe/Berlin:20261124T190000
+DTEND;TZID=Europe/Berlin:20261124T210000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-11-1795719600@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20261126T190000
-DTEND:20261126T210000
-SUMMARY:Fortbildung Führungskräfte | LdF
-DESCRIPTION:Beschreibung: Fortbildung Führungskräfte\nPersonen: LdF
+UID:b70348d7-3663-55fe-8971-20075017d121@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Fortbildung Führungskräfte
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: LdF\nDetails: Fortbildung F
+ ührungskräfte
+DTSTART;TZID=Europe/Berlin:20261126T190000
+DTEND;TZID=Europe/Berlin:20261126T210000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-12-1796326200@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20261203T193000
-DTEND:20261203T213000
-SUMMARY:AK 2: Führungskräfte Abschlussbesprechung in Lahde | P. Wichmann
-DESCRIPTION:Beschreibung: AK 2: Führungskräfte Abschlussbesprechung in Lahde\nPersonen: P. Wichmann
+UID:c9961bb1-8b29-5cd3-86c2-1120b5034547@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:AK 2: Führungskräfte Abschlussbesprechung in Lahde
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: P. Wichmann\nDetails: AK 2:
+  Führungskräfte Abschlussbesprechung in Lahde
+DTSTART;TZID=Europe/Berlin:20261203T193000
+DTEND;TZID=Europe/Berlin:20261203T213000
 END:VEVENT
 BEGIN:VEVENT
-UID:Fuhrung-13-1796410800@chatgpt
-DTSTAMP:20260131T113759Z
-DTSTART:20261204T190000
-DTEND:20261204T210000
-SUMMARY:Jahresabschlussbesprechung Sekundarschule Lahde | LdF
-DESCRIPTION:Beschreibung: Jahresabschlussbesprechung Sekundarschule Lahde\nPersonen: LdF
+UID:0b3895f8-9a34-59d2-a614-9286ff6e42a5@excel-to-ics
+DTSTAMP:20260220T090844Z
+SUMMARY:Jahresabschlussbesprechung Sekundarschule Lahde
+DESCRIPTION:Kategorie: Führung\nVerantwortlich: LdF\nDetails: Jahresabschlu
+ ssbesprechung Sekundarschule Lahde
+DTSTART;TZID=Europe/Berlin:20261204T190000
+DTEND;TZID=Europe/Berlin:20261204T210000
 END:VEVENT
 END:VCALENDAR
