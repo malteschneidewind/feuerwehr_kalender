@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:1a8e940d-8c3e-534e-99f9-9be758e1bdf1@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Bewegungsfahrt + technische Überprüfung Fahrzeuge
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: M. Klenke/P. Wendland\nDetai
  ls: Bewegungsfahrt + technische Überprüfung Fahrzeuge
@@ -15,7 +15,7 @@ DTEND;TZID=Europe/Berlin:20260114T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:ff7fe1e5-2db0-5d67-8379-0c7e89621963@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: F. Wormstedt/J. Menge\nDetai
  ls: Erste Hilfe: Inhalt und Handhabung der Beladung der Fahrzeuge
@@ -24,7 +24,7 @@ DTEND;TZID=Europe/Berlin:20260121T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:1aadb392-f9f4-5b20-b9a0-664a212d0be3@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Erste Hilfe und Reanimation praktisch
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: D. Thielking/P. Kipper\nDeta
  ils: Erste Hilfe und Reanimation praktisch
@@ -33,7 +33,7 @@ DTEND;TZID=Europe/Berlin:20260128T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:a39aef1e-e7d1-5777-a3a4-f1c0a26f30a2@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Vorstellung PSU\; Wietersheim\, Vorbereitung WW
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Lg Wietersheim/A. Windheim\n
  Details: Vorstellung PSU\; Wietersheim\, Vorbereitung WW
@@ -42,7 +42,7 @@ DTEND;TZID=Europe/Berlin:20260204T211500
 END:VEVENT
 BEGIN:VEVENT
 UID:1ffdcb58-6222-5ad9-bcc4-9fed5f56ff0c@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:CSA-Trageübung und Einweisung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: St. Hansch\nDetails: CSA-Tra
  geübung und Einweisung
@@ -51,7 +51,7 @@ DTEND;TZID=Europe/Berlin:20260211T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:dc8b29be-d95d-58e2-b8d5-e103a7d2cbae@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:UVV und Fahrerbelehrung in Lahde
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Rousselle\nDetails: UVV u
  nd Fahrerbelehrung in Lahde
@@ -60,7 +60,7 @@ DTEND;TZID=Europe/Berlin:20260212T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:8e3d4cda-690e-5b4c-ae3f-858f1f0fb909@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Termin Besichtigung Berenzen mit Wietersheim
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Apel\nDetails: Termin Bes
  ichtigung Berenzen mit Wietersheim
@@ -69,7 +69,7 @@ DTEND;TZID=Europe/Berlin:20260218T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:38f7127c-5211-5066-8035-c9048c7b449e@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Einweisung Sonargerät T/P
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: N. Heidkamp\nDetails: Einwei
  sung Sonargerät T/P
@@ -78,7 +78,7 @@ DTEND;TZID=Europe/Berlin:20260225T200000
 END:VEVENT
 BEGIN:VEVENT
 UID:c8fa5aca-c4ff-5d9d-9dc0-9841f1a9a7bd@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Druckberechnung Schläuche und Schaum
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: M. Hartmann/L. Wittkamp\nDet
  ails: Druckberechnung Schläuche und Schaum
@@ -87,7 +87,7 @@ DTEND;TZID=Europe/Berlin:20260304T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:ab67411d-e3c5-567e-be91-75914c0786e6@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Atemschutzkonzept Stadt Petershagen
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: S. Wichmann\nDetails: Atemsc
  hutzkonzept Stadt Petershagen
@@ -96,7 +96,7 @@ DTEND;TZID=Europe/Berlin:20260311T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:3c4f2eb9-1098-5143-b942-c552a0657c10@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Anhörung Aktive wegen stellv. Löschgruppenführer
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: LdF\nDetails: Anhörung Aktiv
  e wegen stellv. Löschgruppenführer
@@ -105,7 +105,7 @@ DTEND;TZID=Europe/Berlin:20260318T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:bc528dc6-6fbc-5849-a70c-9a1c9d680055@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:CSA-Trageübung und Einweisung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: St. Hansch\nDetails: CSA-Tra
  geübung und Einweisung
@@ -114,7 +114,7 @@ DTEND;TZID=Europe/Berlin:20260331T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:d05f5785-9336-5dae-b64f-99796381201a@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:FwDV 3: Aufgaben der Trupps bei der Brandbekämpfung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: H. Neubert\nDetails: FwDV 3:
   Aufgaben der Trupps bei der Brandbekämpfung
@@ -123,7 +123,7 @@ DTEND;TZID=Europe/Berlin:20260401T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:b76a1d85-2bc7-5c0a-9b90-27846d4642e8@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:FwDV 3: Aufgaben der Trupps bei der technischen Hilfeleistung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: P. Wichmann\nDetails: FwDV 3
  : Aufgaben der Trupps bei der technischen Hilfeleistung
@@ -132,7 +132,7 @@ DTEND;TZID=Europe/Berlin:20260408T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:7f5c8bed-27f2-5eb2-ab06-3faa4d1b13c5@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Atemschutzübungsstrecke FTZ Hille + Grillen im Anschluss
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Atemsch
  utzübungsstrecke FTZ Hille + Grillen im Anschluss
@@ -141,7 +141,7 @@ DTEND;TZID=Europe/Berlin:20260410T193000
 END:VEVENT
 BEGIN:VEVENT
 UID:21767cf5-0567-58bd-ab53-2ff82889edf6@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Zugdienst mit DRK
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Rousselle\nDetails: Zugdi
  enst mit DRK
@@ -150,7 +150,7 @@ DTEND;TZID=Europe/Berlin:20260414T211500
 END:VEVENT
 BEGIN:VEVENT
 UID:e360c682-54e9-518b-8322-c08fed05a202@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Allgemeiner Dienst
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
  iner Dienst
@@ -159,7 +159,7 @@ DTEND;TZID=Europe/Berlin:20260415T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:1638196d-c1a7-5579-9955-377c7496c471@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Üben für Leistungsnachweis Hille
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
  r Leistungsnachweis Hille
@@ -168,7 +168,7 @@ DTEND;TZID=Europe/Berlin:20260422T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:67b6f1f9-9a96-51f9-847d-16721e1c55c9@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Üben für Leistungsnachweis Hille
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
  r Leistungsnachweis Hille
@@ -177,7 +177,7 @@ DTEND;TZID=Europe/Berlin:20260429T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:8c224f3f-25fc-5dcd-98de-d9fe1a274689@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Üben für Leistungsnachweis Hille
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
  r Leistungsnachweis Hille
@@ -186,7 +186,7 @@ DTEND;TZID=Europe/Berlin:20260506T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:7bce9794-7cd5-59e4-af12-7258806a398a@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Üben für Leistungsnachweis Hille
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Üben fü
  r Leistungsnachweis Hille
@@ -194,17 +194,17 @@ DTSTART;TZID=Europe/Berlin:20260508T193000
 DTEND;TZID=Europe/Berlin:20260508T213000
 END:VEVENT
 BEGIN:VEVENT
-UID:4c9cc1bf-4ea0-5993-9a3b-41b4deaa7794@excel-to-ics
-DTSTAMP:20260220T085030Z
+UID:af87e9ee-6292-50d9-9dd2-b71d1ab0fb55@excel-to-ics
+DTSTAMP:20260220T085523Z
 SUMMARY:Leistungsnachweis in Hille
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Leistun
  gsnachweis in Hille
-DTSTART;TZID=Europe/Berlin:20250509T113000
-DTEND;TZID=Europe/Berlin:20250509T133000
+DTSTART;TZID=Europe/Berlin:20260509T113000
+DTEND;TZID=Europe/Berlin:20260509T133000
 END:VEVENT
 BEGIN:VEVENT
 UID:f80d7ff8-c21a-510c-a946-958ebfb9519a@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Besichtigung Feuerwehr Herford
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Besicht
  igung Feuerwehr Herford
@@ -213,7 +213,7 @@ DTEND;TZID=Europe/Berlin:20260520T210000
 END:VEVENT
 BEGIN:VEVENT
 UID:fa7025b9-43c0-521b-9516-a8f56b367bb9@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Allgemeiner Dienst
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
  iner Dienst
@@ -222,7 +222,7 @@ DTEND;TZID=Europe/Berlin:20260527T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:e27ea926-d771-5340-8b1b-39436a7257ae@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Fahrzeugreinigung wegen Stadtfeuerwehrtreffen
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: O. Harmening\nDetails: Fahrz
  eugreinigung wegen Stadtfeuerwehrtreffen
@@ -231,7 +231,7 @@ DTEND;TZID=Europe/Berlin:20260610T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:2fece1df-bc84-5892-b7b5-0cb8394795ac@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Flächenbrandbekämpfung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: S. Wichmann/T. Volkening\nDe
  tails: Flächenbrandbekämpfung
@@ -240,7 +240,7 @@ DTEND;TZID=Europe/Berlin:20260617T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:6b49cebd-951d-5764-8d84-98c8ef88e019@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Sonar Boot Praxis
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: N. Heidkamp\nDetails: Sonar 
  Boot Praxis
@@ -249,7 +249,7 @@ DTEND;TZID=Europe/Berlin:20260624T200000
 END:VEVENT
 BEGIN:VEVENT
 UID:771b195b-da98-52c4-80b1-95da938ad499@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Fahrübung im Gelände
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling/H. Neubert/T. Bök
  e\nDetails: Fahrübung im Gelände
@@ -258,7 +258,7 @@ DTEND;TZID=Europe/Berlin:20260701T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:17f02655-af6a-5071-adf3-916eaca92df8@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Einsatzübung nach FwDV 3
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: D. Thielking/A. Volkening\nD
  etails: Einsatzübung nach FwDV 3
@@ -267,7 +267,7 @@ DTEND;TZID=Europe/Berlin:20260708T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:912cafdc-d022-53a6-9cb9-e705627a0f27@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Pumpenbetrieb TLF 3000 + TS 2/5
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Lo. Kölling/F. Kölling\nDeta
  ils: Pumpenbetrieb TLF 3000 + TS 2/5
@@ -276,7 +276,7 @@ DTEND;TZID=Europe/Berlin:20260715T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:c8c7de60-5f47-5530-9335-3b8578ac7e2e@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Steckleiter (Vornahme an Gebäuden\, Leiterhebel)
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: K. Belte/J. Rost\nDetails: S
  teckleiter (Vornahme an Gebäuden\, Leiterhebel)
@@ -285,7 +285,7 @@ DTEND;TZID=Europe/Berlin:20260722T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:8c258709-c5d2-5723-8d5e-91c543fbdfaa@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Einsatzübung nach FwDV 3
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: C. Petzold/H.-J. Haase\nDeta
  ils: Einsatzübung nach FwDV 3
@@ -294,7 +294,7 @@ DTEND;TZID=Europe/Berlin:20260729T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:f1610eda-0b06-57c2-b1b9-2111ca2023c3@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Pumpenbetrieb LF 20 KatS
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: F. Hümmer/H. Volkening\nDeta
  ils: Pumpenbetrieb LF 20 KatS
@@ -303,7 +303,7 @@ DTEND;TZID=Europe/Berlin:20260805T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:4222b38e-8a87-5d2b-bef6-75a7b3a26e8b@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Einsatzschulung/-übung nach FwDV 500
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Lg-Führung\nDetails: Einsatz
  schulung/-übung nach FwDV 500
@@ -312,7 +312,7 @@ DTEND;TZID=Europe/Berlin:20260819T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5d77b4-7f67-556b-a3df-95135317d87e@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Reserveradwechsel LF 20 KatS
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Volkening/M. Klenke\nDeta
  ils: Reserveradwechsel LF 20 KatS
@@ -321,7 +321,7 @@ DTEND;TZID=Europe/Berlin:20280826T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:bc1acb0c-a200-599f-a3ce-7be0edf30d79@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Grünholen Dorfgemeinschaftsfest
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Böke\nDetails: Grünholen 
  Dorfgemeinschaftsfest
@@ -330,7 +330,7 @@ DTEND;TZID=Europe/Berlin:20260902T210000
 END:VEVENT
 BEGIN:VEVENT
 UID:9518f9e5-19f9-5aa5-a038-a7e150911f30@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Allgemeiner Dienst
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
  iner Dienst
@@ -339,7 +339,7 @@ DTEND;TZID=Europe/Berlin:20260909T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:2b6a808e-4d6f-51f8-9652-49187d5c817a@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Zug 3 Einsatzübung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: T. Rousselle\nDetails: Zug 3
   Einsatzübung
@@ -347,17 +347,17 @@ DTSTART;TZID=Europe/Berlin:20260911T174500
 DTEND;TZID=Europe/Berlin:20260911T194500
 END:VEVENT
 BEGIN:VEVENT
-UID:393b5b56-a09e-5d79-a601-e4a7ed6a4e27@excel-to-ics
-DTSTAMP:20260220T085030Z
+UID:76468ff8-f641-58ed-b52e-645e00378343@excel-to-ics
+DTSTAMP:20260220T085523Z
 SUMMARY:Ausleuchten von Einsatzstellen
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: J. Rost\, M. Heidplacke\nDet
  ails: Ausleuchten von Einsatzstellen
-DTSTART;TZID=Europe/Berlin:20250917T193000
-DTEND;TZID=Europe/Berlin:20250917T213000
+DTSTART;TZID=Europe/Berlin:20260917T193000
+DTEND;TZID=Europe/Berlin:20260917T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:cb2cfbbf-46c2-55cc-bea5-41cfb06bd7c0@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:CSA-Trageübung und Einweisung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: St. Hansch\nDetails: CSA-Tra
  geübung und Einweisung
@@ -366,7 +366,7 @@ DTEND;TZID=Europe/Berlin:20260923T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:901416b7-6626-5512-b05e-4d1561ed91c6@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Allgemeiner Dienst
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: Allgeme
  iner Dienst
@@ -375,7 +375,7 @@ DTEND;TZID=Europe/Berlin:20260930T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:34d330c6-5f22-5719-a5e2-fc1b0ccf7e95@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Kurzunterricht Stromerzeuger
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: C. Petzold/J. Rost\nDetails:
   Kurzunterricht Stromerzeuger
@@ -384,7 +384,7 @@ DTEND;TZID=Europe/Berlin:20261007T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:7df56dc0-fe72-57e2-880c-057fe1d2e144@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Schlauchverlegung mit dem LF 20 KatS
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: O. Harmening\nDetails: Schla
  uchverlegung mit dem LF 20 KatS
@@ -393,7 +393,7 @@ DTEND;TZID=Europe/Berlin:20261014T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:70d913ab-6391-5e2c-8bcb-398769f6e246@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Kurzunterricht : Auffangbehälter LF 20 KatS
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: C. Möller/H.-J. Haase\nDetai
  ls: Kurzunterricht : Auffangbehälter LF 20 KatS
@@ -402,7 +402,7 @@ DTEND;TZID=Europe/Berlin:20261021T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:a1cbb46c-d3ca-5bd2-80cf-f712c4774111@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Kurzunterricht: Verkehrsunfallkasten LF 20 KatS
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Wittkamp/M. Hartmann\nDet
  ails: Kurzunterricht: Verkehrsunfallkasten LF 20 KatS
@@ -411,7 +411,7 @@ DTEND;TZID=Europe/Berlin:20261028T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:a9f4c271-38a6-5b74-8b68-bcee0d333f4c@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Vornahme und Einsatztaktik Drucklüfter
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: M. Schneidewind/M. Heidplack
  e\nDetails: Vornahme und Einsatztaktik Drucklüfter
@@ -420,7 +420,7 @@ DTEND;TZID=Europe/Berlin:20261104T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:fc516611-af46-5c34-a458-aae67b7b89ea@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Gefahren bei Einsätzen auf DB-Gelände
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: F. Belte/K. Belte\nDetails: 
  Gefahren bei Einsätzen auf DB-Gelände
@@ -429,7 +429,7 @@ DTEND;TZID=Europe/Berlin:20261111T114500
 END:VEVENT
 BEGIN:VEVENT
 UID:0e9e68e7-6173-5143-a0b4-170b51cdde93@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:CSA-Trageübung und Einweisung
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: -\nDetails: CSA-Trageübung u
  nd Einweisung
@@ -438,7 +438,7 @@ DTEND;TZID=Europe/Berlin:20261118T203000
 END:VEVENT
 BEGIN:VEVENT
 UID:ba82d5ec-a1d2-5a21-8a59-3c98d68bcece@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Allgemeiner Dienst
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: Kölling\nDetails: Allgemeine
  r Dienst
@@ -447,7 +447,7 @@ DTEND;TZID=Europe/Berlin:20261125T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:9f93d021-9eea-5728-ac0e-01cc2d6158d5@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Trockensaugproben mit den Pumpen der Fahrzeuge
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: O. Harmening/T. Volkening\nD
  etails: Trockensaugproben mit den Pumpen der Fahrzeuge
@@ -456,7 +456,7 @@ DTEND;TZID=Europe/Berlin:20261202T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:d52fae84-497b-59f1-9399-837bf01fbac4@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:JHV 2026
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling\nDetails: JHV 202
  6
@@ -465,7 +465,7 @@ DTEND;TZID=Europe/Berlin:20261205T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:28ce0729-216a-505b-82e3-30caabfe2227@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Kurzunterricht: Hygiene im Einsatzdienst
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: H.-J. Haase\nDetails: Kurzun
  terricht: Hygiene im Einsatzdienst
@@ -474,7 +474,7 @@ DTEND;TZID=Europe/Berlin:20261209T213000
 END:VEVENT
 BEGIN:VEVENT
 UID:4f118f51-c7c9-566f-b938-95ac86270314@excel-to-ics
-DTSTAMP:20260220T085030Z
+DTSTAMP:20260220T085523Z
 SUMMARY:Letzter Dienst vor Weihnachten
 DESCRIPTION:Kategorie: Dienst\nVerantwortlich: L. Kölling/A. Windheim\nDeta
  ils: Letzter Dienst vor Weihnachten
