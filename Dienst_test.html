@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kalender abonnieren</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; line-height: 1.4; }
+    .card { max-width: 720px; margin: 0 auto; padding: 20px; border: 1px solid #ddd; border-radius: 16px; }
+    h1 { margin: 0 0 12px 0; font-size: 22px; }
+    p { margin: 10px 0; }
+    .btns { display: grid; gap: 10px; margin-top: 14px; }
+    a.btn { display: inline-block; padding: 12px 14px; border-radius: 12px; border: 1px solid #ccc; text-decoration: none; color: #111; }
+    a.btn:hover { border-color: #999; }
+    code { background: #f6f6f6; padding: 2px 6px; border-radius: 6px; }
+    .small { color: #555; font-size: 13px; margin-top: 14px; }
+    .hint { background:#fafafa; border:1px dashed #ccc; border-radius:12px; padding:12px; margin-top:14px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Kalender abonnieren</h1>
+    <p id="status">Erkennung läuft …</p>
+
+    <div class="btns">
+      <a id="btnApple" class="btn" href="#">🍎 Apple Kalender (webcal)</a>
+      <a id="btnGoogle" class="btn" href="#">🤖 Google Kalender (Android)</a>
+      <a id="btnOutlookWeb" class="btn" href="#">🪟 Outlook im Browser (Anleitung)</a>
+      <a id="btnDirectHttps" class="btn" href="#" target="_blank" rel="noopener">🔗 ICS direkt öffnen (https)</a>
+    </div>
+
+    <div class="hint" id="outlookHint" style="display:none;">
+      <strong>Outlook (Web) – so abonnierst du den Kalender:</strong>
+      <ol>
+        <li>Outlook im Browser öffnen</li>
+        <li>Kalender → „Kalender hinzufügen“</li>
+        <li>„Aus dem Internet“ wählen</li>
+        <li>Die URL einfügen: <code id="icsUrlText"></code></li>
+      </ol>
+    </div>
+
+    <p class="small">
+      Hinweis: Manche Browser blockieren das automatische Öffnen. Dann nutze bitte die Buttons oben.
+    </p>
+  </div>
+
+<script>
+  // === 1) DEINE ICS-URLS ===
+  // Du hast webcal:// gegeben – für Google/Outlook braucht man in der Regel https://
+  const ICS_WEBCAL = "webcal://raw.githubusercontent.com/malteschneidewind/feuerwehr_kalender/refs/heads/main/Dienstplan_Dienst.ics";
+  const ICS_HTTPS  = ICS_WEBCAL.replace(/^webcal:\/\//i, "https://");
+
+  // Google Calendar "subscribe by URL"
+  // Öffnet Google Kalender und bietet Abo an:
+  const GOOGLE_SUBSCRIBE = "https://calendar.google.com/calendar/u/0/r?cid=" + encodeURIComponent(ICS_HTTPS);
+
+  // === 2) UI: Buttons befüllen ===
+  document.getElementById("btnApple").href = ICS_WEBCAL;
+  document.getElementById("btnGoogle").href = GOOGLE_SUBSCRIBE;
+  document.getElementById("btnDirectHttps").href = ICS_HTTPS;
+
+  // Outlook Web hat keinen sauberen "1-Klick subscribe"-Deep-Link per URL,
+  // daher verlinken wir auf outlook.com und zeigen eine Mini-Anleitung.
+  // (Viele Tenants/Clients verhalten sich unterschiedlich.)
+  const OUTLOOK_WEB = "https://outlook.office.com/calendar/";
+  document.getElementById("btnOutlookWeb").href = OUTLOOK_WEB;
+
+  document.getElementById("icsUrlText").textContent = ICS_HTTPS;
+
+  // === 3) Erkennung ===
+  const ua = navigator.userAgent || "";
+  const isIOS = /iPad|iPhone|iPod/i.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const isAndroid = /Android/i.test(ua);
+
+  // Grobe Outlook-Erkennung (nicht perfekt, aber ok als Hinweis)
+  const isOutlook = /Outlook/i.test(ua);
+
+  const statusEl = document.getElementById("status");
+  const outlookHintEl = document.getElementById("outlookHint");
+
+  // === 4) Auto-Redirect (mit kleinem Delay, damit Text/Buttons gerendert werden) ===
+  // iOS: direkt webcal öffnen
+  // Android: Google Subscribe öffnen
+  // Desktop: kein Auto-Redirect (weil Browser & Clients zu unterschiedlich) – Buttons anzeigen.
+  function autoOpen(url, label) {
+    statusEl.textContent = `Erkannt: ${label}. Öffne den passenden Link …`;
+    setTimeout(() => { window.location.href = url; }, 600);
+  }
+
+  if (isIOS) {
+    autoOpen(ICS_WEBCAL, "iOS");
+  } else if (isAndroid) {
+    autoOpen(GOOGLE_SUBSCRIBE, "Android");
+  } else {
+    // Desktop / sonstige
+    statusEl.textContent = isOutlook
+      ? "Erkannt: Outlook/Windows. Bitte nutze einen Button (Outlook unterscheidet je nach Client)."
+      : "Erkannt: Desktop/sonstiges. Bitte nutze einen Button.";
+    outlookHintEl.style.display = "block";
+  }
+</script>
+</body>
+</html>
